@@ -1,0 +1,13 @@
+{
+  "gmail": {
+    "sender": "testgenaiinfra@gmail.com",
+    "smtp_host": "smtp.gmail.com",
+    "smtp_port": 587,
+    "app_password_env": "GMAIL_APP_PASSWORD"
+  },
+  "to": [
+    "p.jindal@samsung.com","kshitij.jain@samsung.com","j.pandey@samsung.com"
+  ],
+  "cc": [],
+  "subject": "AI Signal — Weekly Brief"
+}

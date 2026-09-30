@@ -1,0 +1,81 @@
+
+================================================================================
+RESEARCH  |  2026-09-29T19:41:15  |  20260929_194115
+================================================================================
+Log file: /home/ubuntu/code/newsletter/research/logs/research_20260929_194115.log
+
+================================================================================
+DISCOVERY  |  2026-09-29T19:41:15  |  20260929_194115
+================================================================================
+Log file: /home/ubuntu/code/newsletter/discovery/logs/discovery_20260929_194115.log
+
+--------------------------------------------------------------------------------
+SOURCE: Google Trends
+--------------------------------------------------------------------------------
+
+======================================================================
+       GOOGLE TRENDS AI DISCOVERY
+======================================================================
+Fetching Google Trends for: AI
+WARNING: Failed for 'AI': The request failed: Google returned a response with code 429
+Fetching Google Trends for: AI agents
+WARNING: Failed for 'AI agents': The request failed: Google returned a response with code 429
+Fetching Google Trends for: agentic AI
+WARNING: Failed for 'agentic AI': The request failed: Google returned a response with code 429
+Fetching Google Trends for: LLM
+WARNING: Failed for 'LLM': The request failed: Google returned a response with code 429
+Fetching Google Trends for: RAG
+WARNING: Failed for 'RAG': The request failed: Google returned a response with code 429
+Fetching Google Trends for: MCP
+WARNING: Failed for 'MCP': The request failed: Google returned a response with code 429
+Fetching Google Trends for: generative AI
+WARNING: Failed for 'generative AI': The request failed: Google returned a response with code 429
+Fetching Google Trends for: multimodal AI
+WARNING: Failed for 'multimodal AI': The request failed: Google returned a response with code 429
+Fetching Google Trends for: AI coding
+WARNING: Failed for 'AI coding': The request failed: Google returned a response with code 429
+Fetching Google Trends for: AI automation
+WARNING: Failed for 'AI automation': The request failed: Google returned a response with code 429
+
+Collected 0 raw queries.
+Found 0 AI-related queries.
+Selected 0 trends.
+Google Trends added 0 tags.
+
+--------------------------------------------------------------------------------
+SOURCE: GitHub
+--------------------------------------------------------------------------------
+
+================================================================================
+        GITHUB AI TRENDING - LAST 30 DAYS
+================================================================================
+Searching: AI agents
+Searching: agentic AI
+Searching: LLM
+Searching: RAG
+Searching: MCP
+Searching: generative AI
+Searching: multimodal AI
+Searching: AI coding
+Searching: reasoning models
+Searching: multi agent
+Searching: computer use AI
+Searching: context engineering
+Searching: AI memory
+Searching: AI inference
+Searching: AI evaluation
+Searching: AI safety
+Searching: AI observability
+Searching: AI infrastructure
+Searching: AI model
+
+Repositories discovered: 283
+AI repositories: 281
+[1/281] obra/superpowers
+[2/281] NousResearch/hermes-agent
+[3/281] Significant-Gravitas/AutoGPT
+[4/281] langgenius/dify
+[5/281] langflow-ai/langflow
+[6/281] msitarzewski/agency-agents
+[7/281] DietrichGebert/ponytail
+[8/281] langchain-ai/langchain

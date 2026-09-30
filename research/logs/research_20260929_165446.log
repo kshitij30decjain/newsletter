@@ -1,0 +1,1541 @@
+
+================================================================================
+RESEARCH  |  2026-09-29T16:54:46  |  20260929_165446
+================================================================================
+Log file: /home/ubuntu/code/newsletter/research/logs/research_20260929_165446.log
+
+================================================================================
+DISCOVERY  |  2026-09-29T16:54:46  |  20260929_165446
+================================================================================
+Log file: /home/ubuntu/code/newsletter/discovery/logs/discovery_20260929_165446.log
+
+--------------------------------------------------------------------------------
+SOURCE: Google Trends
+--------------------------------------------------------------------------------
+
+======================================================================
+       GOOGLE TRENDS AI DISCOVERY
+======================================================================
+Fetching Google Trends for: AI
+Fetching Google Trends for: AI agents
+Fetching Google Trends for: agentic AI
+Fetching Google Trends for: LLM
+Fetching Google Trends for: RAG
+Fetching Google Trends for: MCP
+Fetching Google Trends for: generative AI
+Fetching Google Trends for: multimodal AI
+Fetching Google Trends for: AI coding
+Fetching Google Trends for: AI automation
+
+Collected 346 raw queries.
+Found 174 AI-related queries.
+Selected 5 trends.
+1. kimi k3 (value=29500, type=rising)
+2. generative ai is an engineering disaster (value=24900, type=rising)
+3. jev llm (value=19800, type=rising)
+4. ai agents executing unowned code (value=14900, type=rising)
+5. openai ai agents wiki communication (value=6900, type=rising)
+Google Trends added 5 tags.
+
+--------------------------------------------------------------------------------
+SOURCE: GitHub
+--------------------------------------------------------------------------------
+
+================================================================================
+        GITHUB AI TRENDING - LAST 30 DAYS
+================================================================================
+Searching: AI agents
+Searching: agentic AI
+Searching: LLM
+Searching: RAG
+Searching: MCP
+Searching: generative AI
+Searching: multimodal AI
+Searching: AI coding
+Searching: reasoning models
+Searching: multi agent
+Searching: computer use AI
+Searching: context engineering
+Searching: AI memory
+Searching: AI inference
+Searching: AI evaluation
+Searching: AI safety
+Searching: AI observability
+Searching: AI infrastructure
+Searching: AI model
+
+Repositories discovered: 283
+AI repositories: 281
+[1/281] obra/superpowers
+[2/281] NousResearch/hermes-agent
+[3/281] Significant-Gravitas/AutoGPT
+[4/281] langgenius/dify
+[5/281] langflow-ai/langflow
+[6/281] msitarzewski/agency-agents
+[7/281] DietrichGebert/ponytail
+[8/281] langchain-ai/langchain
+[9/281] x1xhlol/system-prompts-and-models-of-ai-tools
+[10/281] Shubhamsaboo/awesome-llm-apps
+[11/281] earendil-works/pi
+[12/281] JuliusBrussee/caveman
+[13/281] google-gemini/gemini-cli
+[14/281] addyosmani/agent-skills
+[15/281] karpathy/autoresearch
+[16/281] thedotmack/claude-mem
+[17/281] infiniflow/ragflow
+[18/281] Panniantong/Agent-Reach
+[19/281] unclecode/crawl4ai
+[20/281] lobehub/lobehub
+[21/281] bytedance/deer-flow
+[22/281] affaan-m/ECC
+[23/281] multica-ai/andrej-karpathy-skills
+[24/281] firecrawl/firecrawl
+[25/281] ollama/ollama
+[26/281] f/prompts.chat
+[27/281] huggingface/transformers
+[28/281] open-webui/open-webui
+[29/281] ggml-org/llama.cpp
+[30/281] harry0703/MoneyPrinterTurbo
+[31/281] Graphify-Labs/graphify
+[32/281] browser-use/browser-use
+[33/281] TauricResearch/TradingAgents
+[34/281] PaddlePaddle/PaddleOCR
+[35/281] datawhalechina/hello-agents
+[36/281] dair-ai/Prompt-Engineering-Guide
+[37/281] headroomlabs-ai/headroom
+[38/281] ruvnet/ruflo
+[39/281] Mintplex-Labs/anything-llm
+[40/281] mem0ai/mem0
+[41/281] pathwaycom/pathway
+[42/281] pathwaycom/llm-app
+[43/281] zylon-ai/private-gpt
+[44/281] FlowiseAI/Flowise
+[45/281] run-llama/llama_index
+[46/281] n8n-io/n8n
+[47/281] Snailclimb/JavaGuide
+[48/281] farion1231/cc-switch
+[49/281] punkpeye/awesome-mcp-servers
+[50/281] koala73/worldmonitor
+[51/281] D4Vinci/Scrapling
+[52/281] netdata/netdata
+[53/281] ComposioHQ/awesome-claude-skills
+[54/281] diegosouzapw/OmniRoute
+[55/281] sansan0/TrendRadar
+[56/281] upstash/context7
+[57/281] rohitg00/ai-engineering-from-scratch
+[58/281] microsoft/generative-ai-for-beginners
+[59/281] CopilotKit/CopilotKit
+[60/281] aishwaryanr/awesome-generative-ai-guide
+[61/281] Anil-matcha/Open-Generative-AI
+[62/281] Stability-AI/generative-models
+[63/281] NirDiamant/GenAI_Agents
+[64/281] NVIDIA-NeMo/Speech
+[65/281] Canner/WrenAI
+[66/281] GoogleCloudPlatform/generative-ai
+[67/281] andrewyng/aisuite
+[68/281] steven2358/awesome-generative-ai
+[69/281] h2oai/h2ogpt
+[70/281] tambo-ai/tambo
+[71/281] thesysdev/openui
+[72/281] ai-collection/ai-collection
+[73/281] miurla/morphic
+[74/281] Stability-AI/StableStudio
+[75/281] open-mmlab/mmagic
+[76/281] vladmandic/sdnext
+[77/281] KalyanM45/AI-Project-Gallery
+[78/281] bojieli/ai-agent-book
+[79/281] bytedance/UI-TARS-desktop
+[80/281] deepset-ai/haystack
+[81/281] jina-ai/serve
+[82/281] screenpipe/screenpipe
+[83/281] pipecat-ai/pipecat
+[84/281] lancedb/lancedb
+[85/281] datawhalechina/all-in-rag
+[86/281] CVHub520/X-AnyLabeling
+[87/281] RunanywhereAI/runanywhere-sdks
+[88/281] StarTrail-org/PixelRAG
+[89/281] yzhao062/pyod
+[90/281] gorse-io/gorse
+[91/281] activeloopai/deeplake
+[92/281] bentoml/BentoML
+[93/281] lance-format/lance
+[94/281] 11cafe/jaaz
+[95/281] SkalskiP/courses
+[96/281] Leonxlnx/taste-skill
+[97/281] career-ops-hq/career-ops
+[98/281] daytonaio/daytona
+[99/281] Fission-AI/OpenSpec
+[100/281] asgeirtj/system_prompts_leaks
+[101/281] shanraisshan/claude-code-best-practice
+[102/281] calesthio/OpenMontage
+[103/281] sapientinc/HRM
+[104/281] OpenSPG/KAG
+[105/281] open-compass/opencompass
+[106/281] winfunc/deepreasoning
+[107/281] kyegomez/tree-of-thoughts
+[108/281] zai-org/GLM-4.5
+[109/281] ysymyth/ReAct
+[110/281] amazon-science/mm-cot
+[111/281] microsoft/PhiCookBook
+[112/281] deepseek-ai/DeepSeek-Math
+[113/281] MiniMax-AI/MiniMax-M1
+[114/281] SkyworkAI/Skywork-R1V
+[115/281] Tiger3807861189/J-Space-Cognition-Suite
+[116/281] FranxYao/chain-of-thought-hub
+[117/281] JIA-Lab-research/LISA
+[118/281] TsinghuaC3I/Awesome-RL-for-LRMs
+[119/281] XiaomiMiMo/MiMo
+[120/281] maitrix-org/llm-reasoners
+[121/281] open-thoughts/open-thoughts
+[122/281] stepfun-ai/Step1X-Edit
+[123/281] FoundationAgents/MetaGPT
+[124/281] multica-ai/multica
+[125/281] HKUDS/nanobot
+[126/281] zhayujie/CowAgent
+[127/281] LibreChat-AI/LibreChat
+[128/281] alibaba/open-code-review
+[129/281] wshobson/agents
+[130/281] THU-MAIC/OpenMAIC
+[131/281] Yeachan-Heo/oh-my-claudecode
+[132/281] OpenBMB/ChatDev
+[133/281] openai/openai-agents-python
+[134/281] cloudflare/security-audit-skill
+[135/281] openai/swarm
+[136/281] camel-ai/owl
+[137/281] arc53/DocsGPT
+[138/281] gastownhall/gastown
+[139/281] muratcankoylan/Agent-Skills-for-Context-Engineering
+[140/281] feder-cr/invisible_playwright_mcp
+[141/281] NanmiCoder/cc-haha
+[142/281] go-vgo/robotgo
+[143/281] CursorTouch/Windows-MCP
+[144/281] the-open-agent/openagent
+[145/281] yuruotong1/autoMate
+[146/281] e2b-dev/open-computer-use
+[147/281] szczyglis-dev/py-gpt
+[148/281] skalesapp/skales
+[149/281] trycua/acu
+[150/281] ghostwright/ghost-os
+[151/281] mediar-ai/terminator
+[152/281] AMAP-ML/LongHorizon-Harness
+[153/281] e2b-dev/desktop
+[154/281] cvzone/cvzone
+[155/281] deedy/mac_computer_use
+[156/281] abshkbh/arrakis
+[157/281] e2b-dev/surf
+[158/281] tanjeffreyz/auto-maple
+[159/281] RyensX/OpenCodex
+[160/281] coleam00/context-engineering-intro
+[161/281] gsd-build/gsd-2
+[162/281] volcengine/MineContext
+[163/281] Windy3f3f3f3f/how-claude-code-works
+[164/281] Meirtz/Awesome-Context-Engineering
+[165/281] wquguru/harness-books
+[166/281] rohitg00/pro-workflow
+[167/281] lopopolo/harness-engineering
+[168/281] humanlayer/advanced-context-engineering-for-coding-agents
+[169/281] agno-agi/dash
+[170/281] EgoAlpha/prompt-in-context-learning
+[171/281] maxritter/pilot-shell
+[172/281] forloopcodes/contextplus
+[173/281] Datus-ai/Datus-agent
+[174/281] NeoLabHQ/context-engineering-kit
+[175/281] chunkhound/chunkhound
+[176/281] fighting41love/funNLP
+[177/281] MemPalace/mempalace
+[178/281] pingcap/tidb
+[179/281] volcengine/OpenViking
+[180/281] topoteretes/cognee
+[181/281] supermemoryai/supermemory
+[182/281] rohitg00/agentmemory
+[183/281] TencentCloud/TencentDB-Agent-Memory
+[184/281] humanlayer/12-factor-agents
+[185/281] letta-ai/letta
+[186/281] mksglu/context-mode
+[187/281] rowboatlabs/rowboat
+[188/281] MemoriLabs/Memori
+[189/281] memvid/memvid
+[190/281] Comfy-Org/ComfyUI
+[191/281] hpcaitech/ColossalAI
+[192/281] lyogavin/airllm
+[193/281] stas00/ml-engineering
+[194/281] meta-llama/llama-cookbook
+[195/281] alibaba/MNN
+[196/281] ubicloud/ubicloud
+[197/281] loft-sh/vcluster
+[198/281] openvinotoolkit/openvino
+[199/281] deepseek-ai/3FS
+[200/281] dusty-nv/jetson-inference
+[201/281] leejet/stable-diffusion.cpp
+[202/281] kvcache-ai/Mooncake
+[203/281] argmaxinc/argmax-oss-swift
+[204/281] Trusted-AI/adversarial-robustness-toolbox
+[205/281] cactus-compute/cactus
+[206/281] kserve/kserve
+[207/281] MadsLorentzen/ai-job-search
+[208/281] Tencent/WeKnora
+[209/281] mlflow/mlflow
+[210/281] promptfoo/promptfoo
+[211/281] google/adk-python
+[212/281] raga-ai-hub/RagaAI-Catalyst
+[213/281] dataelement/bisheng
+[214/281] tensorzero/tensorzero
+[215/281] Arize-ai/phoenix
+[216/281] facebookresearch/ParlAI
+[217/281] google/adk-go
+[218/281] evidentlyai/evidently
+[219/281] interviewstreet/hiring-agent
+[220/281] Tencent/AI-Infra-Guard
+[221/281] GoogleCloudPlatform/agent-starter-pack
+[222/281] google/agents-cli
+[223/281] coze-dev/coze-loop
+[224/281] transformerlab/transformerlab-app
+[225/281] Kiln-AI/Kiln
+[226/281] wasp-lang/wasp
+[227/281] Mail-0/Zero
+[228/281] superagent-ai/superagent
+[229/281] Astrosp/Awesome-OSINT-List
+[230/281] nextlevelbuilder/goclaw
+[231/281] sunnypilot/sunnypilot
+[232/281] valqore/valqore
+[233/281] Dicklesworthstone/agentic_coding_flywheel_setup
+[234/281] yueliu1999/Awesome-Jailbreak-on-LLMs
+[235/281] kenryu42/cc-safety-net
+[236/281] wuyoscar/Internal-Safety-Collapse
+[237/281] cebeuq/Synthid-Bypass
+[238/281] kaplanelad/shellfirm
+[239/281] AI45Lab/AgentDoG
+[240/281] MORTEN-BUUR/nordef-matrix-open-control
+[241/281] caiovicentino/polymarket-mcp-server
+[242/281] 0din-ai/ai-scanner
+[243/281] theNetworkChuck/dark-web-scraping-guide
+[244/281] google-deepmind/ai-safety-gridworlds
+[245/281] Cranot/roam-code
+[246/281] PostHog/posthog
+[247/281] SigNoz/signoz
+[248/281] kubesphere/kubesphere
+[249/281] apache/doris
+[250/281] kubeshark/kubeshark
+[251/281] getagentseal/codeburn
+[252/281] Tracer-Cloud/opensre
+[253/281] VoltAgent/voltagent
+[254/281] coroot/coroot
+[255/281] apache/hertzbeat
+[256/281] katanemo/plano
+[257/281] appwrite/appwrite
+[258/281] zeroclaw-labs/zeroclaw
+[259/281] chroma-core/chroma
+[260/281] nocobase/nocobase
+[261/281] fosrl/pangolin
+[262/281] logto-io/logto
+[263/281] OpenNHP/opennhp
+[264/281] semantica-agi/semantica
+[265/281] NVIDIA/cosmos
+[266/281] nullclaw/nullclaw
+[267/281] deepseek-ai/open-infra-index
+[268/281] steel-dev/steel-browser
+[269/281] goodrain/rainbond
+[270/281] RLinf/RLinf
+[271/281] vllm-project/aibrix
+[272/281] ChatGPTNextWeb/NextChat
+[273/281] unslothai/unsloth
+[274/281] mudler/LocalAI
+[275/281] QuantumNous/new-api
+[276/281] microsoft/qlib
+[277/281] mindsdb/mindshub
+[278/281] musistudio/claude-code-router
+[279/281] lutzroeder/netron
+[280/281] mckaywrigley/chatbot-ui
+[281/281] Lightning-AI/pytorch-lightning
+
+================================================================================
+        TOP AI REPOSITORIES - 30 DAY STAR GROWTH
+================================================================================
+
+1. DietrichGebert/ponytail
+   Stars gained: +30,917
+   Current stars: 147,861
+   Forks: 7,944
+   Language: JavaScript
+   URL: https://github.com/DietrichGebert/ponytail
+
+2. affaan-m/ECC
+   Stars gained: +25,736
+   Current stars: 269,299
+   Forks: 40,242
+   Language: JavaScript
+   URL: https://github.com/affaan-m/ECC
+
+3. alibaba/open-code-review
+   Stars gained: +20,946
+   Current stars: 42,486
+   Forks: 3,051
+   Language: Go
+   URL: https://github.com/alibaba/open-code-review
+
+4. cloudflare/security-audit-skill
+   Stars gained: +19,822
+   Current stars: 22,973
+   Forks: 1,341
+   Language: JavaScript
+   URL: https://github.com/cloudflare/security-audit-skill
+
+5. THU-MAIC/OpenMAIC
+   Stars gained: +14,661
+   Current stars: 39,490
+   Forks: 6,129
+   Language: TypeScript
+   URL: https://github.com/THU-MAIC/OpenMAIC
+
+6. obra/superpowers
+   Stars gained: +14,037
+   Current stars: 292,682
+   Forks: 26,200
+   Language: Shell
+   URL: https://github.com/obra/superpowers
+
+7. diegosouzapw/OmniRoute
+   Stars gained: +12,790
+   Current stars: 71,233
+   Forks: 10,142
+   Language: TypeScript
+   URL: https://github.com/diegosouzapw/OmniRoute
+
+8. firecrawl/firecrawl
+   Stars gained: +12,434
+   Current stars: 186,314
+   Forks: 9,979
+   Language: TypeScript
+   URL: https://github.com/firecrawl/firecrawl
+GitHub added 8 repositories.
+
+--------------------------------------------------------------------------------
+SOURCE: Hugging Face
+--------------------------------------------------------------------------------
+
+================================================================================
+        HUGGING FACE TRENDING MODELS
+================================================================================
+Fetching Hugging Face trending models (limit=7)
+Hugging Face API returned 7 models.
+
+================================================================================
+        TOP TRENDING HUGGING FACE MODELS
+================================================================================
+
+1. convaiinnovations/laya
+   Trending score: 2074
+   Downloads: 0
+   Likes: 4417
+   Pipeline: text-classification
+   Created: 2026-09-18T05:05:55.000Z
+
+2. Edge0/Audio8-ASR-Infinite
+   Trending score: 1283
+   Downloads: 23674
+   Likes: 1459
+   Pipeline: automatic-speech-recognition
+   Created: 2026-09-21T15:03:21.000Z
+
+3. abenzerps/Qwen-Image-2.1-Uncensored-GGUF
+   Trending score: 1222
+   Downloads: 1152523
+   Likes: 2341
+   Pipeline: text-to-image
+   Created: 2026-09-20T15:51:13.000Z
+
+4. Qwen/Qwen-Image-2.1
+   Trending score: 834
+   Downloads: 64362
+   Likes: 2627
+   Pipeline: text-to-image
+   Created: 2026-09-14T03:47:26.000Z
+
+5. XingChen-AGI/TeleOCR
+   Trending score: 699
+   Downloads: 30354
+   Likes: 830
+   Pipeline: image-text-to-text
+   Created: 2026-08-14T06:15:03.000Z
+
+6. XingChen-AGI/Xing4.0-29B-A4B
+   Trending score: 562
+   Downloads: 46557
+   Likes: 1803
+   Pipeline: text-generation
+   Created: 2026-09-16T06:44:40.000Z
+
+7. Contrastive-LM/CLM-v0.1-8B
+   Trending score: 497
+   Downloads: 1910
+   Likes: 504
+   Pipeline: text-ranking
+   Created: 2026-09-21T20:09:04.000Z
+
+Selected 7 Hugging Face models.
+Hugging Face added 7 models.
+
+================================================================================
+DISCOVERY COMPLETE: 20 items
+================================================================================
+1. [tag] kimi k3
+2. [tag] generative ai is an engineering disaster
+3. [tag] jev llm
+4. [tag] ai agents executing unowned code
+5. [tag] openai ai agents wiki communication
+6. [repo] DietrichGebert/ponytail
+7. [repo] affaan-m/ECC
+8. [repo] alibaba/open-code-review
+9. [repo] cloudflare/security-audit-skill
+10. [repo] THU-MAIC/OpenMAIC
+11. [repo] obra/superpowers
+12. [repo] diegosouzapw/OmniRoute
+13. [repo] firecrawl/firecrawl
+14. [model] convaiinnovations/laya
+15. [model] Edge0/Audio8-ASR-Infinite
+16. [model] abenzerps/Qwen-Image-2.1-Uncensored-GGUF
+17. [model] Qwen/Qwen-Image-2.1
+18. [model] XingChen-AGI/TeleOCR
+19. [model] XingChen-AGI/Xing4.0-29B-A4B
+20. [model] Contrastive-LM/CLM-v0.1-8B
+
+================================================================================
+Saved discovery result: /home/ubuntu/code/newsletter/discovery/outputs/discovery_20260929_165446.json
+Saved discovery log:    /home/ubuntu/code/newsletter/discovery/logs/discovery_20260929_165446.log
+================================================================================
+Researching 20 discovery items.
+Initializing research tools...
+Research tools ready.
+
+================================================================================
+[1/20] Researching tag: kimi k3
+================================================================================
+
+================================================================================
+Processing tag: kimi k3
+================================================================================
+Searching GitHub for: kimi k3
+Found 10 candidate repositories.
+Repository confidence: 0.98
+Reason: The repository 'MoonshotAI/Kimi-K3' is the official source repository for the Kimi K3 model, hosted by the developer (MoonshotAI). It is the most direct and authoritative match for the discovery item 'kimi k3', representing the model itself rather than a port, inference engine, or application using the model.
+Selected repository: MoonshotAI/Kimi-K3
+Fetching README from: https://raw.githubusercontent.com/MoonshotAI/Kimi-K3/refs/heads/main/README.md
+Generating README summary...
+
+================================================================================
+Processing tag: kimi k3
+================================================================================
+Searching Hugging Face for: kimi k3
+Found 10 candidate models.
+Model confidence: 0.99
+Reason: This is the official base model 'moonshotai/Kimi-K3' from the creator (Moonshot AI). It is the most direct and relevant representation of the 'kimi k3' discovery item, as all other candidates are derivatives, quantizations, or fine-tunes of this specific model.
+Selected model: moonshotai/Kimi-K3
+Fetching model card: https://huggingface.co/moonshotai/Kimi-K3/raw/main/README.md
+Generating model-card summary...
+
+================================================================================
+Processing tag: kimi k3
+================================================================================
+Searching Semantic Scholar for: kimi k3
+WARNING: Semantic Scholar rate limited. Waiting 1.0s (attempt 1/4)
+Found 10 candidate papers.
+Paper confidence: 0.95
+Reason: Papers 0 and 1 are the primary technical reports introducing the Kimi K3 model. Paper 7 evaluates Kimi K3 in a specific domain (quantum theorem proving). Paper 6 analyzes internal representations (hidden states) of Kimi K3 regarding security vulnerabilities. Paper 9 analyzes internal representations of Kimi K3 regarding reward hacking. Papers 2, 3, 4, 5, and 8 are either non-technical commentary, unrelated to the AI model (occupational safety, pickles, vitamin K3), or less directly focused on the model's technical specifications/behavior compared to the selected set.
+Summarizing paper: Kimi K3: Open Frontier Intelligence
+Summarizing paper: Kimi K3: Open Frontier Intelligence
+Summarizing paper: Your Agentic LLMs Secretly Encode Indirect Prompt-Injection Exposure in Hidden States
+Summarizing paper: Benchmarking Agents for Proving Theorems in Quantum Algorithms and Quantum Information
+Summarizing paper: Monitoring and Discovering Reward Hacking with Internal Representations during LLM Evaluations
+
+================================================================================
+Processing tag: kimi k3
+================================================================================
+Searching Hugging Face Papers for: kimi k3
+Found 6 candidate papers.
+Paper confidence: 1.0
+Reason: The paper titled 'Kimi K3: Open Frontier Intelligence' directly introduces and describes the Kimi K3 model, which matches the discovery item 'kimi k3' exactly. The other papers discuss different models, benchmarks, or frameworks unrelated to Kimi K3.
+Summarizing paper: Kimi K3: Open Frontier Intelligence
+
+================================================================================
+Processing tag: kimi k3
+================================================================================
+Searching OpenAIRE for: kimi k3
+Found 10 candidate papers.
+Paper confidence: 0.95
+Reason: The discovery item 'kimi k3' refers to a specific AI model architecture and release. The selected papers are directly relevant: Index 6 is the primary technical report introducing Kimi K3. Indices 0, 1, 2, and 8 are detailed technical reviews and analyses of Kimi K3's architecture, scaling, and hardware implications. Indices 7 and 9 discuss specific applications, compression techniques, and benchmark evaluations of Kimi K3. Index 5 analyzes the market impact of the Kimi K3 release. All selected papers explicitly study, introduce, or evaluate the Kimi K3 model.
+Summarizing paper: Volume III: Edge AI Hardware Implications of Kimi K3 — Hybrid Attention, Sparse Activation, Fixed-Size State, and Co-Design Pathways for Constrained Silicon
+Summarizing paper: Volume II: Impact of Kimi K3 Architectures and Open Frontier Methods on Tiny Models — Scaling-Down Pathways, Distillation Dynamics, and Plausible Future Scenarios
+Summarizing paper: Anatomical Review of Kimi K3: Open Frontier Intelligence — Epistemological and Ontological Assessments of Hybrid Attention, Sparse MoE Scaling, and Agentic Reinforcement Learning
+Summarizing paper: Another Sputnik Moment? Evaluating Potential Market Repricing and Margin Compression from the Kimi K3 AI Release
+Summarizing paper: Kimi K3: Open Frontier Intelligence
+Summarizing paper: SPECTRA-MoE: Signal-Processing and High-Dimensional Reduction for Local Compression of Frontier Mixture-of-Experts Language Models A Research Program Targeting Kimi K3-Class Models on 32 GB Apple Silicon
+Summarizing paper: Volume IV: Foundation-Model-Agnostic and Localised AI — Utilising the Kimi K3 Series for Sovereign, Interoperable, and Context-Grounded Intelligence Systems
+Summarizing paper: Open vs. Closed: Did the Frontier Labs Bet on the Wrong Horse? A Kimi K3 Case Study
+
+Summary for kimi k3: github=MoonshotAI/Kimi-K3, huggingface=moonshotai/Kimi-K3, papers={'semantic_scholar': 5, 'huggingface_papers': 1, 'openaire': 8}
+
+================================================================================
+[2/20] Researching tag: generative ai is an engineering disaster
+================================================================================
+
+================================================================================
+Processing tag: generative ai is an engineering disaster
+================================================================================
+Searching GitHub for: generative ai is an engineering disaster
+No GitHub repositories found.
+No relevant GitHub repository found.
+
+================================================================================
+Processing tag: generative ai is an engineering disaster
+================================================================================
+Searching Hugging Face for: generative ai is an engineering disaster
+No Hugging Face models found.
+No relevant Hugging Face model found.
+
+================================================================================
+Processing tag: generative ai is an engineering disaster
+================================================================================
+Searching Semantic Scholar for: generative ai is an engineering disaster
+WARNING: Semantic Scholar rate limited. Waiting 1.0s (attempt 1/4)
+WARNING: Semantic Scholar rate limited. Waiting 2.0s (attempt 2/4)
+WARNING: Semantic Scholar rate limited. Waiting 3.0s (attempt 3/4)
+Found 10 candidate papers.
+Paper confidence: 0.85
+Reason: The discovery item 'generative ai is an engineering disaster' suggests a critical perspective on the reliability, complexity, or pitfalls of implementing Generative AI in engineering contexts. 
+
+1. Paper [3] ('A Study on Performance Improvement of Prompt Engineering...') is directly relevant as it addresses 'Prompt Engineering', a specific engineering discipline within GenAI that is often criticized for being fragile, non-deterministic, and requiring excessive manual tuning (i.e., an 'engineering disaster' in terms of effort vs. reliability). It studies the technical challenges of making GenAI work.
+2. Paper [6] ('Towards Architecture-Driven Code Generation with Generative AI: An Empirical Study') is highly relevant as it evaluates GenAI in software engineering. Empirical studies often highlight the gap between GenAI's potential and its actual reliability in complex, real-world engineering tasks (e.g., architectural awareness), supporting the 'disaster' narrative regarding its current maturity.
+3. Paper [8] ('STAGER checklist...') is relevant because it highlights the lack of standardized evaluation frameworks and methodological deficiencies in current GenAI research. This systemic issue in how GenAI is validated and deployed supports the argument that its integration into critical engineering workflows is currently problematic or 'disastrous' due to lack of rigor.
+
+Papers [0], [1], [2] are about natural disasters, not the engineering of AI. Paper [4] is about antibody engineering (biotech). Paper [5] is about education. Paper [7] is about language learning. Paper [9] is a philosophical position paper on cognition, less focused on the 'engineering disaster' aspect of implementation.
+Summarizing paper: A Study on Performance Improvement of Prompt Engineering for Generative AI with a Large Language Model
+Summarizing paper: Towards Architecture-Driven Code Generation with Generative AI: An Empirical Study
+Summarizing paper: STAGER checklist: Standardized Testing and Assessment Guidelines for Evaluating Generative AI Reliability
+
+================================================================================
+Processing tag: generative ai is an engineering disaster
+================================================================================
+Searching Hugging Face Papers for: generative ai is an engineering disaster
+Found 10 candidate papers.
+Paper confidence: 0.85
+Reason: The discovery item 'generative ai is an engineering disaster' highlights the significant technical challenges, reliability issues, and structural risks inherent in current Generative AI systems. Papers [2] and [7] directly address the 'engineering' aspect by discussing the lack of robust evaluation science, fundamental limitations, and unresolved challenges that hinder widespread, reliable adoption. Paper [3] supports this by analyzing structural risks and 'value collapse' in knowledge production, framing GenAI as a disruptive and potentially harmful force rather than a pure benefit. Paper [6] provides specific technical evidence of engineering failure ('physical misgeneralization') where models violate physical laws despite plausible individual outputs, directly supporting the 'disaster' narrative in critical engineering domains.
+Summarizing paper: Toward an Evaluation Science for Generative AI Systems
+Summarizing paper: Generative Models Erode Human Temporal Learning Through Market Selection
+Summarizing paper: Mechanisms of Misgeneralization in Physical Sequence Modeling
+Summarizing paper: On the Challenges and Opportunities in Generative AI
+
+================================================================================
+Processing tag: generative ai is an engineering disaster
+================================================================================
+Searching OpenAIRE for: generative ai is an engineering disaster
+Found 10 candidate papers.
+Paper confidence: 0.85
+Reason: Paper [4] directly investigates the engineering impact of Generative AI on enterprise software development workflows, addressing the 'engineering' aspect of the discovery. Paper [6] explicitly critiques the quality and engineering rigor of current GenAI outputs, referring to them as 'slop' (low-effort, low-quality content), which directly supports the 'disaster' or negative engineering assessment in the discovery tag. The other papers are either too generic, focused on specific niche applications (weather, wind power, IoT), or unrelated to the critical engineering perspective.
+Summarizing paper: Investigating the Impact of Generative AI Tools on Enterprise Web Development Workflows
+Summarizing paper: From Slop to Slop
+
+Summary for generative ai is an engineering disaster: github=none, huggingface=none, papers={'semantic_scholar': 3, 'huggingface_papers': 4, 'openaire': 2}
+
+================================================================================
+[3/20] Researching tag: jev llm
+================================================================================
+
+================================================================================
+Processing tag: jev llm
+================================================================================
+Searching GitHub for: jev llm
+Found 10 candidate repositories.
+Repository confidence: 0.95
+Reason: The repository 'feder-cr/jev' is an open-source implementation of 'jevos' (Jev), described explicitly as an alternative to the Jev model for yes/no decisions. It directly implements the technology referenced by the tag 'jev llm' and includes 'jev' and 'llm' in its topics, making it the most technically relevant repository for the Jev LLM implementation.
+Selected repository: feder-cr/jev
+Fetching README from: https://raw.githubusercontent.com/feder-cr/jev/refs/heads/main/README.md
+Generating README summary...
+
+================================================================================
+Processing tag: jev llm
+================================================================================
+Searching Hugging Face for: jev llm
+Found 1 candidate models.
+Model confidence: 0.95
+Reason: The model name 'Jevvan123/llma_2' contains the exact keywords 'jev' and 'llm' (as 'llma'), directly matching the discovery name 'jev llm'. It is a Llama-2 based model, fitting the LLM category.
+Selected model: Jevvan123/llma_2
+Fetching model card: https://huggingface.co/Jevvan123/llma_2/raw/main/README.md
+WARNING: Model card not found.
+Generating model-card summary...
+
+================================================================================
+Processing tag: jev llm
+================================================================================
+Searching Semantic Scholar for: jev llm
+WARNING: Semantic Scholar rate limited. Waiting 1.0s (attempt 1/4)
+Found 10 candidate papers.
+Paper confidence: 0.98
+Reason: All selected papers (indices 0-6) explicitly discuss 'Jev' or 'JEV' (a specific typed decision model/interface for LLMs) in their titles and abstracts. They cover various applications and evaluations of this technology, including agent control (REFLEX), numerical decoding (NumericJev), penetration testing (NeuroSploit), judging (JEV-as-a-Judge), scam screening, rubric comparison, and value-of-information routing (LAVOIR). The remaining papers (DAPO, LLM-as-a-judge evaluation, A-MEM) are general LLM research and do not specifically address the 'jev llm' discovery item.
+Summarizing paper: REFLEX with Jev for Efficient Selective Control in LLM Agents
+Summarizing paper: NumericJev: Jev-like LLM Numerical Decoding with Multiway Decision Trees
+Summarizing paper: Calibrated Decision Models for Autonomous Penetration-Testing Harnesses: JEV and Laya as System One Decision Layers for LLM-Driven Pentest Agents
+Summarizing paper: JEV-as-a-Judge: Accept When Confident, Escalate When Unsure
+Summarizing paper: Open-Jev Judgments on CallScreenBench: Calibrated One-Pass Scam Screening with a Small Language Model
+Summarizing paper: JEV vs. LLMs as Rubric Judges: Cheaper, Faster, and Wrong in the Same Places
+Summarizing paper: LAVOIR: Teaching a Single-Pass Decision Encoder When and What to Ask with Amortized Value of Information
+
+================================================================================
+Processing tag: jev llm
+================================================================================
+Searching Hugging Face Papers for: jev llm
+Found 8 candidate papers.
+Paper confidence: 0.98
+Reason: These papers directly study, evaluate, or apply 'Jev' (a fast, low-cost decision model) in the context of LLMs. Paper 0 applies Jev for agent control, Paper 1 evaluates Jev as a judge, Paper 2 introduces Jev-Mem for agentic memory, Paper 3 benchmarks Jev for alignment detection, and Paper 5 analyzes the Jev ecosystem. Paper 4 (LLM-JEPA) is unrelated as it refers to Joint Embedding Predictive Architectures, not the 'Jev' model.
+Summarizing paper: REFLEX with Jev for Efficient Selective Control in LLM Agents
+Summarizing paper: JEV-as-a-Judge: Accept When Confident, Escalate When Unsure
+Summarizing paper: Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents
+Summarizing paper: Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures
+Summarizing paper: Jev in the Wild: A Data-Driven Analysis of the Jev Model's Functionality, Applications and Ecosystem
+
+================================================================================
+Processing tag: jev llm
+================================================================================
+Searching OpenAIRE for: jev llm
+Found 10 candidate papers.
+Paper confidence: 0.98
+Reason: All selected papers directly mention and evaluate the 'Jev' model (specifically typesafe/jev or Jev-1.13). Paper 0 benchmarks Jev against LLM judges. Paper 1 provides a comprehensive guide and use cases for Jev. Papers 3, 4, 5, and 6 describe CROW, which explicitly delegates decisions to Jev. Paper 7 investigates Jev's decision behavior. Papers 8 and 9 test agent memory using Jev for selection. Paper 2 is excluded as it discusses generic LLMs for NPCs without mentioning Jev.
+Summarizing paper: Decision Without Generation: Benchmarking a Calibrated Non-Generative Decision Model Against LLM Judges on Moderation, Hallucination, NLI and Prompt-Injection Tasks
+Summarizing paper: Cloudflare で AI モデルを使う
+Summarizing paper: CROW: Classifier-Routed Organization of LLM Wikis
+Summarizing paper: CROW: Classifier-Routed Organization of LLM Wikis
+Summarizing paper: CROW: Classifier-Routed Organization of LLM Wikis
+Summarizing paper: CROW: Classifier-Routed Organization of LLM Wikis
+Summarizing paper: Context-Conditioned Option Selection: A Black-Box Investigation of Jev and the Evolution of a Similarity-Based Decision Model
+Summarizing paper: When Does Selection Replace Extraction? A Pre-Registered Test of Agent Memory with a Typed Decision Model
+Summarizing paper: When Does Selection Replace Extraction? A Pre-Registered Test of Agent Memory with a Typed Decision Model
+
+Summary for jev llm: github=feder-cr/jev, huggingface=Jevvan123/llma_2, papers={'semantic_scholar': 7, 'huggingface_papers': 5, 'openaire': 9}
+
+================================================================================
+[4/20] Researching tag: ai agents executing unowned code
+================================================================================
+
+================================================================================
+Processing tag: ai agents executing unowned code
+================================================================================
+Searching GitHub for: ai agents executing unowned code
+No GitHub repositories found.
+No relevant GitHub repository found.
+
+================================================================================
+Processing tag: ai agents executing unowned code
+================================================================================
+Searching Hugging Face for: ai agents executing unowned code
+No Hugging Face models found.
+No relevant Hugging Face model found.
+
+================================================================================
+Processing tag: ai agents executing unowned code
+================================================================================
+Searching Semantic Scholar for: ai agents executing unowned code
+Found 10 candidate papers.
+WARNING: Invalid JSON from paper relevance LLM
+{
+    "selected_indices": [0, 2, 5, 11],
+    "confidence": 0.95,
+    "reason": "The discovery item 'ai agents executing unowned code' refers to the security risk where AI agents autonomously generate and execute code or commands that were not explicitly authorized or owned by the user, potentially leading to malicious actions or unauthorized system access. \n\n- Paper [0] (Ctrl-Z) directly addresses this by evaluating whether safety measures prevent adversarial AI agents from covertly downloading and executing malicious code in a Bash environment.\n- Paper [2] (MELON) addresses Indirect Prompt Injection attacks where agents are redirected to take unauthorized actions, often involving executing tasks or commands not intended by the user.\n- Paper [5] (AgentBound) focuses on securing the execution boundaries of AI agents, specifically addressing the risk of MCP servers (tools) executing with unrestricted access, which relates to the execution of code/commands by agents.\n- Paper [11] (Agentic JWT) addresses secure delegation and intent binding to prevent stochastic reasoning or prompt injection from silently expanding privileges, which is the mechanism often behind 'unowned' or unauthorized code execution in agentic workflows.\n\nNote: The input list only contains indices 0-9. I have included indices 0, 2, and 5. I mistakenly referenced index 11 in the reasoning list above which does not exist in the provided candidates. The correct selection from the provided list is [0, 2, 5]. I will correct the JSON output to reflect only the valid indices from the provided list."
+}
+
+Correction to JSON output based on valid indices 0-9:
+
+{
+    "selected_indices": [0, 2, 5],
+    "confidence": 0.95,
+    "reason": "The discovery item 'ai agents executing unowned code' refers to the security vulnerability where AI agents autonomously generate and execute code or commands that were not explicitly authorized or owned by the user, potentially leading to malicious actions or unauthorized system access. \n\n- Paper [0] (Ctrl-Z) directly addresses this by evaluating whether safety measures prevent adversarial AI agents from covertly downloading and executing malicious code in a Bash environment.\n- Paper [2] (MELON) addresses Indirect Prompt Injection attacks where agents are redirected to take unauthorized actions, often involving executing tasks or commands not intended by the user.\n- Paper [5] (AgentBound) focuses on securing the execution boundaries of AI agents, specifically addressing the risk of MCP servers (tools) executing with unrestricted access, which relates to the execution of code/commands by agents.\n\nThese papers are the most technically relevant as they deal with the prevention, detection, or control of unauthorized code execution by AI agents."
+}
+No relevant Semantic Scholar paper found.
+
+================================================================================
+Processing tag: ai agents executing unowned code
+================================================================================
+Searching Hugging Face Papers for: ai agents executing unowned code
+Found 10 candidate papers.
+Paper confidence: 0.92
+Reason: These papers directly address the security risks of AI agents executing code, particularly focusing on unowned or malicious code injection. Paper [1] (IssueTrojanBench) evaluates agents against malicious issue requests that lead to code execution. Paper [3] (RedCode) benchmarks risky code execution by agents. Paper [4] (MalSkillBench) focuses on malicious 'skills' (code/instructions) that agents execute. Paper [8] analyzes prompt injection attacks on agentic editors that allow remote exploitation and code execution. These are the most technically relevant to 'ai agents executing unowned code' compared to papers focusing on underspecification [2, 5], general agent harnesses [6], or code quality [7].
+Summarizing paper: IssueTrojanBench: Benchmarking AI Coding Agents Against Malicious Issue Requests
+Summarizing paper: RedCode: Risky Code Execution and Generation Benchmark for Code Agents
+Summarizing paper: MalSkillBench: A Runtime-Verified Benchmark of Malicious Agent Skills
+Summarizing paper: "Your AI, My Shell": Demystifying Prompt Injection Attacks on Agentic AI Coding Editors
+
+================================================================================
+Processing tag: ai agents executing unowned code
+================================================================================
+Searching OpenAIRE for: ai agents executing unowned code
+No OpenAIRE papers found.
+
+Summary for ai agents executing unowned code: github=none, huggingface=none, papers={'semantic_scholar': 0, 'huggingface_papers': 4, 'openaire': 0}
+
+================================================================================
+[5/20] Researching tag: openai ai agents wiki communication
+================================================================================
+
+================================================================================
+Processing tag: openai ai agents wiki communication
+================================================================================
+Searching GitHub for: openai ai agents wiki communication
+No GitHub repositories found.
+No relevant GitHub repository found.
+
+================================================================================
+Processing tag: openai ai agents wiki communication
+================================================================================
+Searching Hugging Face for: openai ai agents wiki communication
+No Hugging Face models found.
+No relevant Hugging Face model found.
+
+================================================================================
+Processing tag: openai ai agents wiki communication
+================================================================================
+Searching Semantic Scholar for: openai ai agents wiki communication
+Found 10 candidate papers.
+Paper confidence: 0.92
+Reason: Paper [1] directly compares communication efficiency across orchestration systems including the OpenAI Agents SDK. Paper [2] explicitly studies communication strategies for collaborative LLM agents using OpenAI models. Paper [6] focuses on the architecture of AI agent communication for auditing and oversight. Paper [9] details the communication layer and human-agent interaction in a deep-research agent framework. These papers are technically relevant to 'AI agents' and 'communication' in the context of OpenAI's ecosystem or general agent architectures.
+Summarizing paper: Hidden Coordination Costs in Multi-Agent AI Systems: A Comparative Study of Communication Efficiency Across LangGraph, CrewAI, and OpenAI Agents
+Summarizing paper: Exploring Communication Strategies for Collaborative LLM Agents in Mathematical Problem-Solving
+Summarizing paper: A Black Box for Agentic Processes: Blockchain-Anchored Evidence for AI Agent Communication, Human Oversight, and GRC Audits
+Summarizing paper: ResearStudio: A Human-Intervenable Framework for Building Controllable Deep-Research Agents
+
+================================================================================
+Processing tag: openai ai agents wiki communication
+================================================================================
+Searching Hugging Face Papers for: openai ai agents wiki communication
+Found 10 candidate papers.
+Paper confidence: 0.92
+Reason: The discovery item focuses on 'openai ai agents wiki communication'. Paper [2] is a survey specifically on LLM-driven AI agent communication, protocols, and security, which is the core technical topic. Paper [4] addresses challenges in human-agent communication, directly relevant to the 'communication' aspect of agents. Paper [8] provides a comprehensive survey on multi-agent communication (who, what, when, why), covering the foundational paradigms of agent communication. Paper [9] studies communication among agents in multi-agent systems to handle information asymmetry. Paper [3] (WikiSkill) is less relevant as it focuses on skill persistence rather than communication protocols or dynamics. Papers [0], [1], [5], [6], [7] are about ethics, speech models, coding attribution, or specific datasets, which are tangential to the core topic of agent communication mechanisms.
+Summarizing paper: A Survey of LLM-Driven AI Agent Communication: Protocols, Security
+  Risks, and Defense Countermeasures
+Summarizing paper: Challenges in Human-Agent Communication
+Summarizing paper: The Five Ws of Multi-Agent Communication: Who Talks to Whom, When, What, and Why -- A Survey from MARL to Emergent Language and LLMs
+Summarizing paper: Autonomous Agents for Collaborative Task under Information Asymmetry
+
+================================================================================
+Processing tag: openai ai agents wiki communication
+================================================================================
+Searching OpenAIRE for: openai ai agents wiki communication
+Found 1 candidate papers.
+Paper confidence: 0.0
+Reason: The discovery item 'openai ai agents wiki communication' suggests a need for research on AI agent communication protocols, frameworks, or documentation standards (potentially related to OpenAI's specific implementations or general agent-to-agent communication). The only candidate paper focuses on AI safety governance, independent verification of safety claims, and regulatory analysis. It does not discuss AI agent architectures, communication mechanisms, or OpenAI's agent wiki/technical documentation. Therefore, it is not technically relevant to the specific topic of agent communication.
+No relevant OpenAIRE paper found.
+
+Summary for openai ai agents wiki communication: github=none, huggingface=none, papers={'semantic_scholar': 4, 'huggingface_papers': 4, 'openaire': 0}
+
+================================================================================
+[6/20] Researching repo: DietrichGebert/ponytail
+================================================================================
+
+================================================================================
+Processing repo: DietrichGebert/ponytail
+================================================================================
+Using exact repository: DietrichGebert/ponytail
+Selected repository: DietrichGebert/ponytail
+Fetching README from: https://raw.githubusercontent.com/DietrichGebert/ponytail/refs/heads/main/README.md
+Generating README summary...
+
+================================================================================
+Processing repo: DietrichGebert/ponytail
+================================================================================
+Searching Hugging Face for: DietrichGebert/ponytail
+No Hugging Face models found.
+No relevant Hugging Face model found.
+
+================================================================================
+Processing repo: DietrichGebert/ponytail
+================================================================================
+Searching Semantic Scholar for: DietrichGebert ponytail
+Found 10 candidate papers.
+Paper confidence: 0.95
+Reason: The discovery item 'DietrichGebert/ponytail' refers to a software repository (likely a Python library for natural language processing, specifically related to the 'Ponytail' tokenizer or model by Dietrich Gebert). The provided search candidates are exclusively related to medical conditions (ponytail coronary artery anomaly, ponytail syndrome), cosmetic surgery (ponytail lift), religious studies, or botany (ponytail palm/radish). None of the papers discuss software, programming, NLP models, or the specific technology implemented in the GitHub repository.
+No relevant Semantic Scholar paper found.
+
+================================================================================
+Processing repo: DietrichGebert/ponytail
+================================================================================
+Searching Hugging Face Papers for: DietrichGebert ponytail
+No Hugging Face papers found.
+
+================================================================================
+Processing repo: DietrichGebert/ponytail
+================================================================================
+Searching OpenAIRE for: DietrichGebert ponytail
+No OpenAIRE papers found.
+
+Summary for DietrichGebert/ponytail: github=DietrichGebert/ponytail, huggingface=none, papers={'semantic_scholar': 0, 'huggingface_papers': 0, 'openaire': 0}
+
+================================================================================
+[7/20] Researching repo: affaan-m/ECC
+================================================================================
+
+================================================================================
+Processing repo: affaan-m/ECC
+================================================================================
+Using exact repository: affaan-m/ECC
+Selected repository: affaan-m/ECC
+Fetching README from: https://raw.githubusercontent.com/affaan-m/ECC/refs/heads/main/README.md
+Generating README summary...
+
+================================================================================
+Processing repo: affaan-m/ECC
+================================================================================
+Searching Hugging Face for: affaan-m/ECC
+No Hugging Face models found.
+No relevant Hugging Face model found.
+
+================================================================================
+Processing repo: affaan-m/ECC
+================================================================================
+Searching Semantic Scholar for: affaan-m ECC
+Found 10 candidate papers.
+Paper confidence: 0.9
+Reason: The discovery item 'affaan-m/ECC' refers to the GitHub repository for 'ECC' (Engineered Cementitious Composites), a class of advanced fiber-reinforced concrete. The selected papers (indices 0, 1, 2, 3, 6, 9) are all directly related to the material science, mechanical properties, sustainability, and structural applications of Engineered Cementitious Composites. Papers with indices 4, 5, 7, and 8 refer to 'Early Childhood Caries' (medical) or 'Elliptic Curve Cryptography' (computer security), which are unrelated to the civil engineering context implied by the repository name in this dataset.
+Summarizing paper: Engineered cementitious composites (ECC): a review on properties, design, sustainability, and applications
+Summarizing paper: Self-recovery and mechanical behavior of SMAF-ECC under monotonic and cyclic tensile loading with constitutive model
+Summarizing paper: Assessment of the efficiency of hybrid basalt fibre sustainable ECC incorporating industrial waste materials
+Summarizing paper: Engineered cementitious composite (ECC) strengthening of reinforced concrete structures: A state-of-the-art review
+Summarizing paper: Performance of Eco-Friendly ECC Made of Pre-treated Crumb Rubber and Waste Quarry Dust
+Summarizing paper: Fatigue performance of ECC link slab incorporated full RC girder joint-free bridges
+
+================================================================================
+Processing repo: affaan-m/ECC
+================================================================================
+Searching Hugging Face Papers for: affaan-m ECC
+No Hugging Face papers found.
+
+================================================================================
+Processing repo: affaan-m/ECC
+================================================================================
+Searching OpenAIRE for: affaan-m ECC
+No OpenAIRE papers found.
+
+Summary for affaan-m/ECC: github=affaan-m/ECC, huggingface=none, papers={'semantic_scholar': 6, 'huggingface_papers': 0, 'openaire': 0}
+
+================================================================================
+[8/20] Researching repo: alibaba/open-code-review
+================================================================================
+
+================================================================================
+Processing repo: alibaba/open-code-review
+================================================================================
+Using exact repository: alibaba/open-code-review
+Selected repository: alibaba/open-code-review
+Fetching README from: https://raw.githubusercontent.com/alibaba/open-code-review/refs/heads/main/README.md
+Generating README summary...
+
+================================================================================
+Processing repo: alibaba/open-code-review
+================================================================================
+Searching Hugging Face for: alibaba/open-code-review
+No Hugging Face models found.
+No relevant Hugging Face model found.
+
+================================================================================
+Processing repo: alibaba/open-code-review
+================================================================================
+Searching Semantic Scholar for: alibaba open-code-review
+Found 10 candidate papers.
+Paper confidence: 0.85
+Reason: The discovery item is the repository 'alibaba/open-code-review'. Paper [0] ('Automated Code Review in Practice') explicitly states that the study was conducted using an AI-assisted code review tool 'based on open-source Qodo PR Agent' and examines its impact in an industry setting. While it does not explicitly name 'alibaba/open-code-review' in the abstract snippet, it is the only paper among the candidates that discusses the practical industrial evaluation of an open-source LLM-based code review tool, which is the closest technical match to the discovery item's domain (automated code review tools). Other papers focus on general LLM determinism, incivility detection, or code review assignment, which are less directly related to the specific tool/project 'alibaba/open-code-review'.
+Summarizing paper: Automated Code Review in Practice
+
+================================================================================
+Processing repo: alibaba/open-code-review
+================================================================================
+Searching Hugging Face Papers for: alibaba open-code-review
+Found 10 candidate papers.
+Paper confidence: 0.98
+Reason: The paper 'OpenCodeReview: Determinism over Non-Determinism for Cost-Effective Agent-Based Code Review' (index 0) explicitly introduces and describes the 'OpenCodeReview' system, which matches the discovery item 'alibaba/open-code-review'. The abstract confirms it is the foundational research for this specific agent-based code review tool.
+Summarizing paper: OpenCodeReview: Determinism over Non-Determinism for Cost-Effective Agent-Based Code Review
+
+================================================================================
+Processing repo: alibaba/open-code-review
+================================================================================
+Searching OpenAIRE for: alibaba open-code-review
+No OpenAIRE papers found.
+
+Summary for alibaba/open-code-review: github=alibaba/open-code-review, huggingface=none, papers={'semantic_scholar': 1, 'huggingface_papers': 1, 'openaire': 0}
+
+================================================================================
+[9/20] Researching repo: cloudflare/security-audit-skill
+================================================================================
+
+================================================================================
+Processing repo: cloudflare/security-audit-skill
+================================================================================
+Using exact repository: cloudflare/security-audit-skill
+Selected repository: cloudflare/security-audit-skill
+Fetching README from: https://raw.githubusercontent.com/cloudflare/security-audit-skill/refs/heads/main/README.md
+Generating README summary...
+
+================================================================================
+Processing repo: cloudflare/security-audit-skill
+================================================================================
+Searching Hugging Face for: cloudflare/security-audit-skill
+No Hugging Face models found.
+No relevant Hugging Face model found.
+
+================================================================================
+Processing repo: cloudflare/security-audit-skill
+================================================================================
+Searching Semantic Scholar for: cloudflare security-audit-skill
+Found 10 candidate papers.
+Paper confidence: 0.92
+Reason: The discovery item 'cloudflare/security-audit-skill' refers to a security audit mechanism for AI agent skills. Papers 0 (Runtime Skill Audit), 5 (SkillProbe), 7 (SkillVetBench), and 9 (Audited Skill-Graph Self-Improvement) all directly address the security auditing, vetting, or verification of skills within LLM agent ecosystems. Papers 1, 2, 3, 4, 6, and 8 focus on financial auditing, general IT governance, or traditional penetration testing, which are not directly relevant to the specific context of LLM agent skills.
+Summarizing paper: Runtime Skill Audit: Targeted Runtime Probing for Agent Skill Security
+Summarizing paper: SkillProbe: Security Auditing for Emerging Agent Skill Marketplaces via Multi-Agent Collaboration
+Summarizing paper: Benchmarking Security Risk Detection and Verification in Open Agentic Skill Ecosystems
+Summarizing paper: Audited Skill-Graph Self-Improvement for Agentic LLMs via Verifiable Rewards, Experience Synthesis, and Continual Memory
+
+================================================================================
+Processing repo: cloudflare/security-audit-skill
+================================================================================
+Searching Hugging Face Papers for: cloudflare security-audit-skill
+Found 10 candidate papers.
+Paper confidence: 0.95
+Reason: The discovery item 'cloudflare/security-audit-skill' refers to a security auditing capability or tool for AI agent skills. All provided papers are directly relevant as they address the security, auditing, evaluation, and risk assessment of LLM agent skills. Specifically, papers 0, 6, and 9 explicitly propose or evaluate audit frameworks and scanners. Papers 1, 3, 4, 5, 7, and 8 analyze security vulnerabilities, attacks, and empirical risks within skill ecosystems, which is the domain knowledge required to build or validate such an audit tool. Paper 2 evaluates logical safety in skills. Collectively, they represent the state-of-the-art research on the topic of 'security auditing for agent skills'.
+Summarizing paper: SkillProbe: Security Auditing for Emerging Agent Skill Marketplaces via Multi-Agent Collaboration
+Summarizing paper: SkillTrojan: Backdoor Attacks on Skill-Based Agent Systems
+Summarizing paper: SLBench: Evaluating How LLM Agents Follow Logical Relations in Skills
+Summarizing paper: Benign in Isolation, Harmful in Composition: Security Risks in Agent Skill Ecosystems
+Summarizing paper: SkillHarm: Lifecycle-Aware Skill-Based Attacks via Automated Construction
+Summarizing paper: SkillEvo: Self-Renewing Evolution Gradients from Multi-Turn Interaction Feedback
+Summarizing paper: MedSkillAudit: A Domain-Specific Audit Framework for Medical Research Agent Skills
+Summarizing paper: POISE: Position-Aware Undetectable Skill Injection on LLM Agents
+Summarizing paper: Malicious Agent Skills in the Wild: A Large-Scale Security Empirical Study
+Summarizing paper: ClawHub Security Signals: When VirusTotal, Static Analysis, and SkillSpector Disagree
+
+================================================================================
+Processing repo: cloudflare/security-audit-skill
+================================================================================
+Searching OpenAIRE for: cloudflare security-audit-skill
+No OpenAIRE papers found.
+
+Summary for cloudflare/security-audit-skill: github=cloudflare/security-audit-skill, huggingface=none, papers={'semantic_scholar': 4, 'huggingface_papers': 10, 'openaire': 0}
+
+================================================================================
+[10/20] Researching repo: THU-MAIC/OpenMAIC
+================================================================================
+
+================================================================================
+Processing repo: THU-MAIC/OpenMAIC
+================================================================================
+Using exact repository: THU-MAIC/OpenMAIC
+Selected repository: THU-MAIC/OpenMAIC
+Fetching README from: https://raw.githubusercontent.com/THU-MAIC/OpenMAIC/refs/heads/main/README.md
+Generating README summary...
+
+================================================================================
+Processing repo: THU-MAIC/OpenMAIC
+================================================================================
+Searching Hugging Face for: THU-MAIC/OpenMAIC
+No Hugging Face models found.
+No relevant Hugging Face model found.
+
+================================================================================
+Processing repo: THU-MAIC/OpenMAIC
+================================================================================
+Searching Semantic Scholar for: THU-MAIC OpenMAIC
+Found 10 candidate papers.
+Paper confidence: 0.95
+Reason: The discovery item 'THU-MAIC/OpenMAIC' refers to a specific open-source repository, likely related to OpenMAIC (Open Multi-Agent Intelligent Collaboration) or a similar multi-agent AI framework. None of the provided paper candidates describe, introduce, or evaluate the 'OpenMAIC' project or its specific technical implementation. Paper [0] discusses a different multi-agent framework ('SimPBL') for project-based learning, which is not the same as the OpenMAIC repository. The other papers are unrelated to AI multi-agent systems or the specific project name.
+No relevant Semantic Scholar paper found.
+
+================================================================================
+Processing repo: THU-MAIC/OpenMAIC
+================================================================================
+Searching Hugging Face Papers for: THU-MAIC OpenMAIC
+Found 3 candidate papers.
+Paper confidence: 0.95
+Reason: The discovery item 'THU-MAIC/OpenMAIC' refers to a project from Tsinghua University (THU) related to Multimodal AI (likely OpenMAIC). The provided candidate papers are about 'OpenThaiGPT' (Thai language models) and 'OpenMMReasoner' (multimodal reasoning recipe by LMMs-Lab). None of these papers introduce, evaluate, or describe the 'OpenMAIC' model or project from Tsinghua University. Therefore, no papers are directly relevant.
+No relevant Hugging Face paper found.
+
+================================================================================
+Processing repo: THU-MAIC/OpenMAIC
+================================================================================
+Searching OpenAIRE for: THU-MAIC OpenMAIC
+No OpenAIRE papers found.
+
+Summary for THU-MAIC/OpenMAIC: github=THU-MAIC/OpenMAIC, huggingface=none, papers={'semantic_scholar': 0, 'huggingface_papers': 0, 'openaire': 0}
+
+================================================================================
+[11/20] Researching repo: obra/superpowers
+================================================================================
+
+================================================================================
+Processing repo: obra/superpowers
+================================================================================
+Using exact repository: obra/superpowers
+Selected repository: obra/superpowers
+Fetching README from: https://raw.githubusercontent.com/obra/superpowers/refs/heads/main/README.md
+Generating README summary...
+
+================================================================================
+Processing repo: obra/superpowers
+================================================================================
+Searching Hugging Face for: obra/superpowers
+No Hugging Face models found.
+No relevant Hugging Face model found.
+
+================================================================================
+Processing repo: obra/superpowers
+================================================================================
+Searching Semantic Scholar for: obra superpowers
+Found 10 candidate papers.
+Paper confidence: 0.95
+Reason: Paper 0 explicitly mentions 'obra/superpowers' in its abstract as an installable, spec-first, agent-driven development framework. It directly discusses the technology and context of the repository 'obra/superpowers', making it the most relevant candidate. The other papers discuss 'superpowers' in the context of VR/HCI or AI geopolitics, or are unrelated art analyses.
+Summarizing paper: Introducing Consort: A Spec-First Agent Framework for Enforced, Test-Driven Development on Live Database Branches
+
+================================================================================
+Processing repo: obra/superpowers
+================================================================================
+Searching Hugging Face Papers for: obra superpowers
+No Hugging Face papers found.
+
+================================================================================
+Processing repo: obra/superpowers
+================================================================================
+Searching OpenAIRE for: obra superpowers
+Found 5 candidate papers.
+Paper confidence: 0.0
+Reason: The discovery item 'obra/superpowers' appears to be a software repository (likely related to AI agents, reinforcement learning, or a specific technical project given the naming convention 'obra' often used in AI research contexts like 'Open Brain' or similar, or potentially a typo for 'open-superpowers'). However, all provided candidate papers are exclusively related to International Relations, Political Science, History, and Economics (discussing BRICS, Hannah Arendt, Chinese investments in Brazil, European security, and children's financial literacy). None of the papers describe a software repository, an AI model, or a technical implementation related to 'superpowers' in a computing context. Therefore, there is no technical relevance.
+No relevant OpenAIRE paper found.
+
+Summary for obra/superpowers: github=obra/superpowers, huggingface=none, papers={'semantic_scholar': 1, 'huggingface_papers': 0, 'openaire': 0}
+
+================================================================================
+[12/20] Researching repo: diegosouzapw/OmniRoute
+================================================================================
+
+================================================================================
+Processing repo: diegosouzapw/OmniRoute
+================================================================================
+Using exact repository: diegosouzapw/OmniRoute
+Selected repository: diegosouzapw/OmniRoute
+Fetching README from: https://raw.githubusercontent.com/diegosouzapw/OmniRoute/refs/heads/release/v3.8.52/README.md
+Generating README summary...
+
+================================================================================
+Processing repo: diegosouzapw/OmniRoute
+================================================================================
+Searching Hugging Face for: diegosouzapw/OmniRoute
+No Hugging Face models found.
+No relevant Hugging Face model found.
+
+================================================================================
+Processing repo: diegosouzapw/OmniRoute
+================================================================================
+Searching Semantic Scholar for: diegosouzapw OmniRoute
+Found 2 candidate papers.
+Paper confidence: 0.95
+Reason: The discovery item is a GitHub repository named 'diegosouzapw/OmniRoute'. Paper [0] explicitly describes the 'Omniroute maze', a novel rodent navigation apparatus. The title and abstract confirm that this paper introduces and details the specific technology/hardware system named 'Omniroute', which corresponds directly to the repository name. Paper [1] discusses 'OmniRouting' in the context of PCB design and LLM benchmarks, which is a different domain and likely a different project/entity despite the similar name.
+Summarizing paper: The Omniroute maze: a novel rodent navigation apparatus that integrates dynamically configurable routes, sensory cues and automated reward delivery
+
+================================================================================
+Processing repo: diegosouzapw/OmniRoute
+================================================================================
+Searching Hugging Face Papers for: diegosouzapw OmniRoute
+No Hugging Face papers found.
+
+================================================================================
+Processing repo: diegosouzapw/OmniRoute
+================================================================================
+Searching OpenAIRE for: diegosouzapw OmniRoute
+No OpenAIRE papers found.
+
+Summary for diegosouzapw/OmniRoute: github=diegosouzapw/OmniRoute, huggingface=none, papers={'semantic_scholar': 1, 'huggingface_papers': 0, 'openaire': 0}
+
+================================================================================
+[13/20] Researching repo: firecrawl/firecrawl
+================================================================================
+
+================================================================================
+Processing repo: firecrawl/firecrawl
+================================================================================
+Using exact repository: firecrawl/firecrawl
+Selected repository: firecrawl/firecrawl
+Fetching README from: https://raw.githubusercontent.com/firecrawl/firecrawl/refs/heads/main/README.md
+Generating README summary...
+
+================================================================================
+Processing repo: firecrawl/firecrawl
+================================================================================
+Searching Hugging Face for: firecrawl/firecrawl
+No Hugging Face models found.
+No relevant Hugging Face model found.
+
+================================================================================
+Processing repo: firecrawl/firecrawl
+================================================================================
+Searching Semantic Scholar for: firecrawl firecrawl
+WARNING: Semantic Scholar rate limited. Waiting 1.0s (attempt 1/4)
+Found 3 candidate papers.
+Paper confidence: 0.95
+Reason: All three papers explicitly mention and utilize 'Firecrawl' as a key component of their technical implementation or evaluation. Paper 0 and Paper 1 describe systems that use Firecrawl for web scraping and data ingestion to support LLM-based recommendation engines. Paper 2 evaluates Firecrawl as a search API/fetch backend for tool-using agents. Since Firecrawl is the core discovery item (a web scraping/crawling tool), these papers are directly relevant as they document its practical application and performance.
+Summarizing paper: Conceptual Design of an LLM-Based Tech Product Recommendation System Using LangChain, LangGraph, Firecrawl, and n8n with RAG, Fine-Tuning, Prompt Engineering, and KNN with Cosine Similarity
+Summarizing paper: An AI-Driven Smartphone Recommendation System Using RAG, LLMs, and Multisource Price Tracking
+Summarizing paper: Similar Accuracy, Unequal Evidence: Search APIs as Decision Surfaces for Tool-Using Agents
+
+================================================================================
+Processing repo: firecrawl/firecrawl
+================================================================================
+Searching Hugging Face Papers for: firecrawl firecrawl
+Found 3 candidate papers.
+Paper confidence: 0.0
+Reason: The discovery item 'firecrawl/firecrawl' refers to a web scraping and crawling tool/library. The provided candidate papers focus on wildfire detection, data integration for wildfires, and smoke detection using computer vision. There is no technical overlap between the web scraping technology of Firecrawl and the wildfire research topics in the candidates. The word 'fire' in the candidates refers to wildfires, not the Firecrawl brand or technology.
+No relevant Hugging Face paper found.
+
+================================================================================
+Processing repo: firecrawl/firecrawl
+================================================================================
+Searching OpenAIRE for: firecrawl firecrawl
+Found 5 candidate papers.
+Paper confidence: 0.85
+Reason: The discovery item 'firecrawl/firecrawl' refers to the Firecrawl web scraping tool. Papers 0, 2, 3, and 4 explicitly mention using 'Firecrawl' as a core component or tool for their respective systems (product recommendation, multi-server orchestration, cyber threat intelligence, and smartphone recommendation). Paper 1 discusses search APIs and page fetching but does not mention Firecrawl specifically. Papers 0, 2, 3, and 4 are directly relevant as they demonstrate the implementation or usage of the Firecrawl technology.
+Summarizing paper: Conceptual Design of an LLM-Based Tech Product Recommendation System Using LangChain, LangGraph, Firecrawl, and n8n with RAG, Fine-Tuning, Prompt Engineering, and KNN with Cosine Similarity
+Summarizing paper: MCP in the Wild: Cross-Domain Knowledge Discovery through Multi-Server Orchestration
+Summarizing paper: Cyber Threat Intel
+Summarizing paper: An AI-Driven Smartphone Recommendation System Using RAG, LLMs, and Multisource Price Tracking
+
+Summary for firecrawl/firecrawl: github=firecrawl/firecrawl, huggingface=none, papers={'semantic_scholar': 3, 'huggingface_papers': 0, 'openaire': 4}
+
+================================================================================
+[14/20] Researching model: convaiinnovations/laya
+================================================================================
+
+================================================================================
+Processing model: convaiinnovations/laya
+================================================================================
+Searching GitHub for: convaiinnovations/laya
+Found 10 candidate repositories.
+Repository confidence: 0.95
+Reason: This repository is explicitly described as a 'Mirror of convaiinnovations/laya' containing the actual model checkpoints (weights). For a model discovery item, the repository that hosts or mirrors the model artifacts is the most directly relevant source compared to demo projects, API wrappers, or fine-tunes.
+Selected repository: heheebei-rgb/laya-mirror
+Fetching README from: https://raw.githubusercontent.com/heheebei-rgb/laya-mirror/refs/heads/main/README.md
+Generating README summary...
+
+================================================================================
+Processing model: convaiinnovations/laya
+================================================================================
+Selected model: convaiinnovations/laya
+Fetching model card: https://huggingface.co/convaiinnovations/laya/raw/main/README.md
+Generating model-card summary...
+
+================================================================================
+Processing model: convaiinnovations/laya
+================================================================================
+Searching Semantic Scholar for: convaiinnovations laya
+Found 10 candidate papers.
+Paper confidence: 0.85
+Reason: The discovery item 'convaiinnovations/laya' refers to a model or project named 'laya' in the context of AI/LLMs (ConvAI Innovations). Among the candidates, only index 2 ('LAYA: Layer-wise Attention Aggregation for Interpretable Depth-Aware Neural Networks') introduces a neural network model architecture named LAYA. While the acronym expansion differs slightly (LAYA vs laya), it is the only candidate describing a deep learning model with the name 'LAYA' or 'laya'. Other papers refer to 'Air Laya' (a mine), 'Laya' (tempo in music), or unrelated geographical locations. Index 7 mentions 'Laya' as a decision layer but in the context of autonomous pentesting, which is less likely to be the primary 'model' discovery from ConvAI Innovations compared to a core neural architecture paper, though it is a distant second. Given the ambiguity, Index 2 is the strongest technical match for a 'model' named LAYA.
+Summarizing paper: LAYA: Layer-wise Attention Aggregation for Interpretable Depth-Aware Neural Networks
+
+================================================================================
+Processing model: convaiinnovations/laya
+================================================================================
+Searching Hugging Face Papers for: convaiinnovations laya
+No Hugging Face papers found.
+
+================================================================================
+Processing model: convaiinnovations/laya
+================================================================================
+Searching OpenAIRE for: convaiinnovations laya
+No OpenAIRE papers found.
+
+Summary for convaiinnovations/laya: github=heheebei-rgb/laya-mirror, huggingface=convaiinnovations/laya, papers={'semantic_scholar': 1, 'huggingface_papers': 0, 'openaire': 0}
+
+================================================================================
+[15/20] Researching model: Edge0/Audio8-ASR-Infinite
+================================================================================
+
+================================================================================
+Processing model: Edge0/Audio8-ASR-Infinite
+================================================================================
+Searching GitHub for: Edge0/Audio8-ASR-Infinite
+Found 2 candidate repositories.
+Repository confidence: 0.98
+Reason: The repository 'Edge0-AI/Audio8-ASR-Infinite' is the official or primary repository associated with the discovery item 'Edge0/Audio8-ASR-Infinite'. It matches the name and organization (Edge0-AI) directly. The second candidate is a derivative or lean version hosted by a different entity (scrappylabsai), making the first one the most direct match.
+Selected repository: Edge0-AI/Audio8-ASR-Infinite
+Fetching README from: https://raw.githubusercontent.com/Edge0-AI/Audio8-ASR-Infinite/refs/heads/main/README.md
+Generating README summary...
+
+================================================================================
+Processing model: Edge0/Audio8-ASR-Infinite
+================================================================================
+Selected model: Edge0/Audio8-ASR-Infinite
+Fetching model card: https://huggingface.co/Edge0/Audio8-ASR-Infinite/raw/main/README.md
+Generating model-card summary...
+
+================================================================================
+Processing model: Edge0/Audio8-ASR-Infinite
+================================================================================
+Searching Semantic Scholar for: Edge0 Audio8-ASR-Infinite
+No Semantic Scholar papers found.
+
+================================================================================
+Processing model: Edge0/Audio8-ASR-Infinite
+================================================================================
+Searching Hugging Face Papers for: Edge0 Audio8-ASR-Infinite
+Found 10 candidate papers.
+Paper confidence: 0.85
+Reason: The discovery item 'Edge0/Audio8-ASR-Infinite' suggests a model or technology focused on Edge deployment of Automatic Speech Recognition (ASR), likely involving quantization (implied by 'Audio8' potentially referring to 8-bit quantization or audio features) and efficiency. 
+
+- Paper [0] (Edge-ASR) is highly relevant as it specifically benchmarks Post-Training Quantization (PTQ) methods for ASR on edge devices, directly addressing the 'Edge' and 'Quantization' aspects.
+- Paper [1] is highly relevant as it focuses on 'On-Device Streaming ASR', optimizing for low latency and memory on resource-constrained hardware, which aligns with the 'Edge' and 'Infinite' (streaming/continuous) aspects.
+- Paper [2] is relevant as it analyzes quantization of Whisper models for edge deployment, providing context on quantization techniques for ASR.
+- Paper [5] is relevant as it proposes a block-reusing strategy to reduce model size for ASR on edge devices, addressing the efficiency constraints.
+- Paper [8] is relevant as it discusses 4-bit quantization with Quantization Aware Training for ASR, which is technically adjacent to the likely 8-bit quantization focus of the discovery item.
+
+Other papers are less relevant: [3] is about environmental sound classification, not ASR; [4] is about speech detection (wake word), not transcription; [6] is about African languages and fine-tuning, less about the core edge/quantization mechanism; [7] is about TTS/ASMR generation; [9] is about zero-shot audio classification.
+Summarizing paper: Edge-ASR: Towards Low-Bit Quantization of Automatic Speech Recognition
+  Models
+Summarizing paper: Pushing the Limits of On-Device Streaming ASR: A Compact, High-Accuracy English Model for Low-Latency Inference
+Summarizing paper: Quantization for OpenAI's Whisper Models: A Comparative Analysis
+Summarizing paper: Beyond Universal Transformer: block reusing with adaptor in Transformer
+  for automatic speech recognition
+Summarizing paper: 4-bit Conformer with Native Quantization Aware Training for Speech Recognition
+
+================================================================================
+Processing model: Edge0/Audio8-ASR-Infinite
+================================================================================
+Searching OpenAIRE for: Edge0 Audio8-ASR-Infinite
+No OpenAIRE papers found.
+
+Summary for Edge0/Audio8-ASR-Infinite: github=Edge0-AI/Audio8-ASR-Infinite, huggingface=Edge0/Audio8-ASR-Infinite, papers={'semantic_scholar': 0, 'huggingface_papers': 5, 'openaire': 0}
+
+================================================================================
+[16/20] Researching model: abenzerps/Qwen-Image-2.1-Uncensored-GGUF
+================================================================================
+
+================================================================================
+Processing model: abenzerps/Qwen-Image-2.1-Uncensored-GGUF
+================================================================================
+Searching GitHub for: abenzerps/Qwen-Image-2.1-Uncensored-GGUF
+No GitHub repositories found.
+No relevant GitHub repository found.
+
+================================================================================
+Processing model: abenzerps/Qwen-Image-2.1-Uncensored-GGUF
+================================================================================
+Selected model: abenzerps/Qwen-Image-2.1-Uncensored-GGUF
+Fetching model card: https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF/raw/main/README.md
+Generating model-card summary...
+
+================================================================================
+Processing model: abenzerps/Qwen-Image-2.1-Uncensored-GGUF
+================================================================================
+Searching Semantic Scholar for: abenzerps Qwen-Image-2.1-Uncensored-GGUF
+WARNING: Semantic Scholar rate limited. Waiting 1.0s (attempt 1/4)
+WARNING: Semantic Scholar rate limited. Waiting 2.0s (attempt 2/4)
+No Semantic Scholar papers found.
+
+================================================================================
+Processing model: abenzerps/Qwen-Image-2.1-Uncensored-GGUF
+================================================================================
+Searching Hugging Face Papers for: abenzerps Qwen-Image-2.1-Uncensored-GGUF
+Found 10 candidate papers.
+Paper confidence: 0.95
+Reason: The discovery item 'abenzerps/Qwen-Image-2.1-Uncensored-GGUF' is a specific model variant of the Qwen-Image series. Paper [1] ('Qwen-Image Technical Report') and Paper [8] ('Qwen-Image-2.0 Technical Report') are the official technical reports describing the architecture, training, and capabilities of the Qwen-Image model family (specifically versions 2.0 and the general series leading to 2.1). These papers provide the foundational context for the model weights mentioned in the discovery item. Other papers discuss safety mitigations or LLMs (Qwen2/2.5) but are less directly relevant to the specific image generation model architecture and its specific variant.
+Summarizing paper: Qwen-Image Technical Report
+Summarizing paper: Qwen-Image-2.0 Technical Report
+
+================================================================================
+Processing model: abenzerps/Qwen-Image-2.1-Uncensored-GGUF
+================================================================================
+Searching OpenAIRE for: abenzerps Qwen-Image-2.1-Uncensored-GGUF
+No OpenAIRE papers found.
+
+Summary for abenzerps/Qwen-Image-2.1-Uncensored-GGUF: github=none, huggingface=abenzerps/Qwen-Image-2.1-Uncensored-GGUF, papers={'semantic_scholar': 0, 'huggingface_papers': 2, 'openaire': 0}
+
+================================================================================
+[17/20] Researching model: Qwen/Qwen-Image-2.1
+================================================================================
+
+================================================================================
+Processing model: Qwen/Qwen-Image-2.1
+================================================================================
+Searching GitHub for: Qwen/Qwen-Image-2.1
+Found 10 candidate repositories.
+Repository confidence: 1.0
+Reason: This repository (QwenLM/Qwen-Image-2.1) is the official source repository for the Qwen-Image-2.1 model, hosted by the QwenLM organization. It is the primary implementation and documentation hub for the model, whereas other candidates are third-party tools, bridges, or utilities built upon the model.
+Selected repository: QwenLM/Qwen-Image-2.1
+Fetching README from: https://raw.githubusercontent.com/QwenLM/Qwen-Image-2.1/refs/heads/main/README.md
+Generating README summary...
+
+================================================================================
+Processing model: Qwen/Qwen-Image-2.1
+================================================================================
+Selected model: Qwen/Qwen-Image-2.1
+Fetching model card: https://huggingface.co/Qwen/Qwen-Image-2.1/raw/main/README.md
+Generating model-card summary...
+
+================================================================================
+Processing model: Qwen/Qwen-Image-2.1
+================================================================================
+Searching Semantic Scholar for: Qwen Qwen-Image-2.1
+WARNING: Semantic Scholar rate limited. Waiting 1.0s (attempt 1/4)
+WARNING: Semantic Scholar rate limited. Waiting 2.0s (attempt 2/4)
+WARNING: Semantic Scholar rate limited. Waiting 3.0s (attempt 3/4)
+WARNING: Semantic Scholar rate limited. Waiting 4.0s (attempt 4/4)
+WARNING: semantic_scholar research failed for {'type': 'model', 'name': 'Qwen/Qwen-Image-2.1'}: 429 Too Many Requests after 4 attempts
+
+================================================================================
+Processing model: Qwen/Qwen-Image-2.1
+================================================================================
+Searching Hugging Face Papers for: Qwen Qwen-Image-2.1
+Found 10 candidate papers.
+Paper confidence: 0.9
+Reason: The discovery item is 'Qwen/Qwen-Image-2.1'. Among the candidates, there is no paper explicitly titled 'Qwen-Image-2.1'. However, papers 0 ('Qwen-Image Technical Report') and 1 ('Qwen-Image-2.0 Technical Report') describe the core model lineage and architecture of the Qwen-Image series. Paper 4 ('Qwen-Image-2.0-RL Technical Report') describes the post-training (RLHF) of the 2.0 model, which is a critical component of the final model release. Paper 7 ('Qwen-Image-VAE-2.0 Technical Report') describes the underlying VAE component for the 2.0 series. Given that 2.1 is likely a minor update or the specific version name for the 2.0 series release (or the 2.0 report covers the base for 2.1), these papers are the most technically relevant as they detail the model's architecture, training, and components. Other papers (3, 5, 6, 8, 9) are unrelated (VL, LLM, Coder). Paper 2 is a benchmark, less relevant than the model reports themselves.
+Summarizing paper: Qwen-Image Technical Report
+Summarizing paper: Qwen-Image-2.0 Technical Report
+Summarizing paper: Qwen-Image-2.0-RL Technical Report
+Summarizing paper: Qwen-Image-VAE-2.0 Technical Report
+
+================================================================================
+Processing model: Qwen/Qwen-Image-2.1
+================================================================================
+Searching OpenAIRE for: Qwen Qwen-Image-2.1
+Found 1 candidate papers.
+Paper confidence: 0.9
+Reason: The paper explicitly evaluates the 'Qwen-Image' model (likely referring to the Qwen-Image series including version 2.1) as one of the six state-of-the-art open-weight models analyzed for gender bias in text-to-image generation. It directly studies the requested model.
+Summarizing paper: Beyond the Prompt: Gender Bias in Text-to-Image Models, with a Case Study on Hospital Professions
+
+Summary for Qwen/Qwen-Image-2.1: github=QwenLM/Qwen-Image-2.1, huggingface=Qwen/Qwen-Image-2.1, papers={'semantic_scholar': 0, 'huggingface_papers': 4, 'openaire': 1}
+
+================================================================================
+[18/20] Researching model: XingChen-AGI/TeleOCR
+================================================================================
+
+================================================================================
+Processing model: XingChen-AGI/TeleOCR
+================================================================================
+Searching GitHub for: XingChen-AGI/TeleOCR
+No GitHub repositories found.
+No relevant GitHub repository found.
+
+================================================================================
+Processing model: XingChen-AGI/TeleOCR
+================================================================================
+Selected model: XingChen-AGI/TeleOCR
+Fetching model card: https://huggingface.co/XingChen-AGI/TeleOCR/raw/main/README.md
+Generating model-card summary...
+
+================================================================================
+Processing model: XingChen-AGI/TeleOCR
+================================================================================
+Searching Semantic Scholar for: XingChen-AGI TeleOCR
+WARNING: Semantic Scholar rate limited. Waiting 1.0s (attempt 1/4)
+WARNING: Semantic Scholar rate limited. Waiting 2.0s (attempt 2/4)
+Found 1 candidate papers.
+Paper confidence: 0.0
+Reason: The provided paper discusses a Tibetan Text-to-Speech (TTS) system developed by Xingchen AGI Lab, which is a speech synthesis task. The discovery item 'XingChen-AGI/TeleOCR' refers to an Optical Character Recognition (OCR) model, which is a computer vision task for reading text from images. There is no technical overlap between speech synthesis and OCR, and the paper does not mention or evaluate the TeleOCR model.
+No relevant Semantic Scholar paper found.
+
+================================================================================
+Processing model: XingChen-AGI/TeleOCR
+================================================================================
+Searching Hugging Face Papers for: XingChen-AGI TeleOCR
+No Hugging Face papers found.
+
+================================================================================
+Processing model: XingChen-AGI/TeleOCR
+================================================================================
+Searching OpenAIRE for: XingChen-AGI TeleOCR
+No OpenAIRE papers found.
+
+Summary for XingChen-AGI/TeleOCR: github=none, huggingface=XingChen-AGI/TeleOCR, papers={'semantic_scholar': 0, 'huggingface_papers': 0, 'openaire': 0}
+
+================================================================================
+[19/20] Researching model: XingChen-AGI/Xing4.0-29B-A4B
+================================================================================
+
+================================================================================
+Processing model: XingChen-AGI/Xing4.0-29B-A4B
+================================================================================
+Searching GitHub for: XingChen-AGI/Xing4.0-29B-A4B
+Found 2 candidate repositories.
+Repository confidence: 0.99
+Reason: Repository name exactly matches the discovery item 'XingChen-AGI/Xing4.0-29B-A4B'. As the model name matches the repository owner/name structure, this is the primary official or direct hosting repository for the model, whereas index 1 is a third-party utility for running it.
+Selected repository: XingChen-AGI/Xing4.0-29B-A4B
+Fetching README from: https://raw.githubusercontent.com/XingChen-AGI/Xing4.0-29B-A4B/refs/heads/main/README.md
+Generating README summary...
+
+================================================================================
+Processing model: XingChen-AGI/Xing4.0-29B-A4B
+================================================================================
+Selected model: XingChen-AGI/Xing4.0-29B-A4B
+Fetching model card: https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B/raw/main/README.md
+Generating model-card summary...
+
+================================================================================
+Processing model: XingChen-AGI/Xing4.0-29B-A4B
+================================================================================
+Searching Semantic Scholar for: XingChen-AGI Xing4.0-29B-A4B
+No Semantic Scholar papers found.
+
+================================================================================
+Processing model: XingChen-AGI/Xing4.0-29B-A4B
+================================================================================
+Searching Hugging Face Papers for: XingChen-AGI Xing4.0-29B-A4B
+No Hugging Face papers found.
+
+================================================================================
+Processing model: XingChen-AGI/Xing4.0-29B-A4B
+================================================================================
+Searching OpenAIRE for: XingChen-AGI Xing4.0-29B-A4B
+No OpenAIRE papers found.
+
+Summary for XingChen-AGI/Xing4.0-29B-A4B: github=XingChen-AGI/Xing4.0-29B-A4B, huggingface=XingChen-AGI/Xing4.0-29B-A4B, papers={'semantic_scholar': 0, 'huggingface_papers': 0, 'openaire': 0}
+
+================================================================================
+[20/20] Researching model: Contrastive-LM/CLM-v0.1-8B
+================================================================================
+
+================================================================================
+Processing model: Contrastive-LM/CLM-v0.1-8B
+================================================================================
+Searching GitHub for: Contrastive-LM/CLM-v0.1-8B
+No GitHub repositories found.
+No relevant GitHub repository found.
+
+================================================================================
+Processing model: Contrastive-LM/CLM-v0.1-8B
+================================================================================
+Selected model: Contrastive-LM/CLM-v0.1-8B
+Fetching model card: https://huggingface.co/Contrastive-LM/CLM-v0.1-8B/raw/main/README.md
+Generating model-card summary...
+
+================================================================================
+Processing model: Contrastive-LM/CLM-v0.1-8B
+================================================================================
+Searching Semantic Scholar for: Contrastive-LM CLM-v0.1-8B
+WARNING: Semantic Scholar rate limited. Waiting 1.0s (attempt 1/4)
+No Semantic Scholar papers found.
+
+================================================================================
+Processing model: Contrastive-LM/CLM-v0.1-8B
+================================================================================
+Searching Hugging Face Papers for: Contrastive-LM CLM-v0.1-8B
+Found 10 candidate papers.
+Paper confidence: 0.85
+Reason: The discovery item 'Contrastive-LM/CLM-v0.1-8B' refers to a Large Language Model utilizing contrastive techniques. Paper [9] 'Contrastive Decoding: Open-ended Text Generation as Optimization' is the most relevant candidate as it explicitly proposes a contrastive approach for text generation using Large Language Models (specifically mentioning OPT models, which are similar in architecture and context to the 8B parameter models often used in such libraries). It directly addresses the intersection of 'Contrastive' methods and 'LM' (Language Models) for generation/decoding, which is the core functionality implied by the 'CLM' (Contrastive Language Model) name. Other papers focus on embedding representations, distillation, or specific domain applications rather than the core LM generation/contrastive mechanism itself.
+Summarizing paper: Contrastive Decoding: Open-ended Text Generation as Optimization
+
+================================================================================
+Processing model: Contrastive-LM/CLM-v0.1-8B
+================================================================================
+Searching OpenAIRE for: Contrastive-LM CLM-v0.1-8B
+No OpenAIRE papers found.
+
+Summary for Contrastive-LM/CLM-v0.1-8B: github=none, huggingface=Contrastive-LM/CLM-v0.1-8B, papers={'semantic_scholar': 0, 'huggingface_papers': 1, 'openaire': 0}
+
+================================================================================
+RESEARCH COMPLETE: 20 items
+================================================================================
+
+================================================================================
+Saved research result: /home/ubuntu/code/newsletter/research/outputs/research_20260929_165446.json
+Saved research log:    /home/ubuntu/code/newsletter/research/logs/research_20260929_165446.log
+================================================================================

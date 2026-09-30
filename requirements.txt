@@ -1,0 +1,6 @@
+pytrends
+requests
+pandas
+openai
+huggingface_hub
+python-dotenv

@@ -1,0 +1,500 @@
+
+================================================================================
+DISCOVERY  |  2026-09-29T16:54:46  |  20260929_165446
+================================================================================
+Log file: /home/ubuntu/code/newsletter/discovery/logs/discovery_20260929_165446.log
+
+--------------------------------------------------------------------------------
+SOURCE: Google Trends
+--------------------------------------------------------------------------------
+
+======================================================================
+       GOOGLE TRENDS AI DISCOVERY
+======================================================================
+Fetching Google Trends for: AI
+Fetching Google Trends for: AI agents
+Fetching Google Trends for: agentic AI
+Fetching Google Trends for: LLM
+Fetching Google Trends for: RAG
+Fetching Google Trends for: MCP
+Fetching Google Trends for: generative AI
+Fetching Google Trends for: multimodal AI
+Fetching Google Trends for: AI coding
+Fetching Google Trends for: AI automation
+
+Collected 346 raw queries.
+Found 174 AI-related queries.
+Selected 5 trends.
+1. kimi k3 (value=29500, type=rising)
+2. generative ai is an engineering disaster (value=24900, type=rising)
+3. jev llm (value=19800, type=rising)
+4. ai agents executing unowned code (value=14900, type=rising)
+5. openai ai agents wiki communication (value=6900, type=rising)
+Google Trends added 5 tags.
+
+--------------------------------------------------------------------------------
+SOURCE: GitHub
+--------------------------------------------------------------------------------
+
+================================================================================
+        GITHUB AI TRENDING - LAST 30 DAYS
+================================================================================
+Searching: AI agents
+Searching: agentic AI
+Searching: LLM
+Searching: RAG
+Searching: MCP
+Searching: generative AI
+Searching: multimodal AI
+Searching: AI coding
+Searching: reasoning models
+Searching: multi agent
+Searching: computer use AI
+Searching: context engineering
+Searching: AI memory
+Searching: AI inference
+Searching: AI evaluation
+Searching: AI safety
+Searching: AI observability
+Searching: AI infrastructure
+Searching: AI model
+
+Repositories discovered: 283
+AI repositories: 281
+[1/281] obra/superpowers
+[2/281] NousResearch/hermes-agent
+[3/281] Significant-Gravitas/AutoGPT
+[4/281] langgenius/dify
+[5/281] langflow-ai/langflow
+[6/281] msitarzewski/agency-agents
+[7/281] DietrichGebert/ponytail
+[8/281] langchain-ai/langchain
+[9/281] x1xhlol/system-prompts-and-models-of-ai-tools
+[10/281] Shubhamsaboo/awesome-llm-apps
+[11/281] earendil-works/pi
+[12/281] JuliusBrussee/caveman
+[13/281] google-gemini/gemini-cli
+[14/281] addyosmani/agent-skills
+[15/281] karpathy/autoresearch
+[16/281] thedotmack/claude-mem
+[17/281] infiniflow/ragflow
+[18/281] Panniantong/Agent-Reach
+[19/281] unclecode/crawl4ai
+[20/281] lobehub/lobehub
+[21/281] bytedance/deer-flow
+[22/281] affaan-m/ECC
+[23/281] multica-ai/andrej-karpathy-skills
+[24/281] firecrawl/firecrawl
+[25/281] ollama/ollama
+[26/281] f/prompts.chat
+[27/281] huggingface/transformers
+[28/281] open-webui/open-webui
+[29/281] ggml-org/llama.cpp
+[30/281] harry0703/MoneyPrinterTurbo
+[31/281] Graphify-Labs/graphify
+[32/281] browser-use/browser-use
+[33/281] TauricResearch/TradingAgents
+[34/281] PaddlePaddle/PaddleOCR
+[35/281] datawhalechina/hello-agents
+[36/281] dair-ai/Prompt-Engineering-Guide
+[37/281] headroomlabs-ai/headroom
+[38/281] ruvnet/ruflo
+[39/281] Mintplex-Labs/anything-llm
+[40/281] mem0ai/mem0
+[41/281] pathwaycom/pathway
+[42/281] pathwaycom/llm-app
+[43/281] zylon-ai/private-gpt
+[44/281] FlowiseAI/Flowise
+[45/281] run-llama/llama_index
+[46/281] n8n-io/n8n
+[47/281] Snailclimb/JavaGuide
+[48/281] farion1231/cc-switch
+[49/281] punkpeye/awesome-mcp-servers
+[50/281] koala73/worldmonitor
+[51/281] D4Vinci/Scrapling
+[52/281] netdata/netdata
+[53/281] ComposioHQ/awesome-claude-skills
+[54/281] diegosouzapw/OmniRoute
+[55/281] sansan0/TrendRadar
+[56/281] upstash/context7
+[57/281] rohitg00/ai-engineering-from-scratch
+[58/281] microsoft/generative-ai-for-beginners
+[59/281] CopilotKit/CopilotKit
+[60/281] aishwaryanr/awesome-generative-ai-guide
+[61/281] Anil-matcha/Open-Generative-AI
+[62/281] Stability-AI/generative-models
+[63/281] NirDiamant/GenAI_Agents
+[64/281] NVIDIA-NeMo/Speech
+[65/281] Canner/WrenAI
+[66/281] GoogleCloudPlatform/generative-ai
+[67/281] andrewyng/aisuite
+[68/281] steven2358/awesome-generative-ai
+[69/281] h2oai/h2ogpt
+[70/281] tambo-ai/tambo
+[71/281] thesysdev/openui
+[72/281] ai-collection/ai-collection
+[73/281] miurla/morphic
+[74/281] Stability-AI/StableStudio
+[75/281] open-mmlab/mmagic
+[76/281] vladmandic/sdnext
+[77/281] KalyanM45/AI-Project-Gallery
+[78/281] bojieli/ai-agent-book
+[79/281] bytedance/UI-TARS-desktop
+[80/281] deepset-ai/haystack
+[81/281] jina-ai/serve
+[82/281] screenpipe/screenpipe
+[83/281] pipecat-ai/pipecat
+[84/281] lancedb/lancedb
+[85/281] datawhalechina/all-in-rag
+[86/281] CVHub520/X-AnyLabeling
+[87/281] RunanywhereAI/runanywhere-sdks
+[88/281] StarTrail-org/PixelRAG
+[89/281] yzhao062/pyod
+[90/281] gorse-io/gorse
+[91/281] activeloopai/deeplake
+[92/281] bentoml/BentoML
+[93/281] lance-format/lance
+[94/281] 11cafe/jaaz
+[95/281] SkalskiP/courses
+[96/281] Leonxlnx/taste-skill
+[97/281] career-ops-hq/career-ops
+[98/281] daytonaio/daytona
+[99/281] Fission-AI/OpenSpec
+[100/281] asgeirtj/system_prompts_leaks
+[101/281] shanraisshan/claude-code-best-practice
+[102/281] calesthio/OpenMontage
+[103/281] sapientinc/HRM
+[104/281] OpenSPG/KAG
+[105/281] open-compass/opencompass
+[106/281] winfunc/deepreasoning
+[107/281] kyegomez/tree-of-thoughts
+[108/281] zai-org/GLM-4.5
+[109/281] ysymyth/ReAct
+[110/281] amazon-science/mm-cot
+[111/281] microsoft/PhiCookBook
+[112/281] deepseek-ai/DeepSeek-Math
+[113/281] MiniMax-AI/MiniMax-M1
+[114/281] SkyworkAI/Skywork-R1V
+[115/281] Tiger3807861189/J-Space-Cognition-Suite
+[116/281] FranxYao/chain-of-thought-hub
+[117/281] JIA-Lab-research/LISA
+[118/281] TsinghuaC3I/Awesome-RL-for-LRMs
+[119/281] XiaomiMiMo/MiMo
+[120/281] maitrix-org/llm-reasoners
+[121/281] open-thoughts/open-thoughts
+[122/281] stepfun-ai/Step1X-Edit
+[123/281] FoundationAgents/MetaGPT
+[124/281] multica-ai/multica
+[125/281] HKUDS/nanobot
+[126/281] zhayujie/CowAgent
+[127/281] LibreChat-AI/LibreChat
+[128/281] alibaba/open-code-review
+[129/281] wshobson/agents
+[130/281] THU-MAIC/OpenMAIC
+[131/281] Yeachan-Heo/oh-my-claudecode
+[132/281] OpenBMB/ChatDev
+[133/281] openai/openai-agents-python
+[134/281] cloudflare/security-audit-skill
+[135/281] openai/swarm
+[136/281] camel-ai/owl
+[137/281] arc53/DocsGPT
+[138/281] gastownhall/gastown
+[139/281] muratcankoylan/Agent-Skills-for-Context-Engineering
+[140/281] feder-cr/invisible_playwright_mcp
+[141/281] NanmiCoder/cc-haha
+[142/281] go-vgo/robotgo
+[143/281] CursorTouch/Windows-MCP
+[144/281] the-open-agent/openagent
+[145/281] yuruotong1/autoMate
+[146/281] e2b-dev/open-computer-use
+[147/281] szczyglis-dev/py-gpt
+[148/281] skalesapp/skales
+[149/281] trycua/acu
+[150/281] ghostwright/ghost-os
+[151/281] mediar-ai/terminator
+[152/281] AMAP-ML/LongHorizon-Harness
+[153/281] e2b-dev/desktop
+[154/281] cvzone/cvzone
+[155/281] deedy/mac_computer_use
+[156/281] abshkbh/arrakis
+[157/281] e2b-dev/surf
+[158/281] tanjeffreyz/auto-maple
+[159/281] RyensX/OpenCodex
+[160/281] coleam00/context-engineering-intro
+[161/281] gsd-build/gsd-2
+[162/281] volcengine/MineContext
+[163/281] Windy3f3f3f3f/how-claude-code-works
+[164/281] Meirtz/Awesome-Context-Engineering
+[165/281] wquguru/harness-books
+[166/281] rohitg00/pro-workflow
+[167/281] lopopolo/harness-engineering
+[168/281] humanlayer/advanced-context-engineering-for-coding-agents
+[169/281] agno-agi/dash
+[170/281] EgoAlpha/prompt-in-context-learning
+[171/281] maxritter/pilot-shell
+[172/281] forloopcodes/contextplus
+[173/281] Datus-ai/Datus-agent
+[174/281] NeoLabHQ/context-engineering-kit
+[175/281] chunkhound/chunkhound
+[176/281] fighting41love/funNLP
+[177/281] MemPalace/mempalace
+[178/281] pingcap/tidb
+[179/281] volcengine/OpenViking
+[180/281] topoteretes/cognee
+[181/281] supermemoryai/supermemory
+[182/281] rohitg00/agentmemory
+[183/281] TencentCloud/TencentDB-Agent-Memory
+[184/281] humanlayer/12-factor-agents
+[185/281] letta-ai/letta
+[186/281] mksglu/context-mode
+[187/281] rowboatlabs/rowboat
+[188/281] MemoriLabs/Memori
+[189/281] memvid/memvid
+[190/281] Comfy-Org/ComfyUI
+[191/281] hpcaitech/ColossalAI
+[192/281] lyogavin/airllm
+[193/281] stas00/ml-engineering
+[194/281] meta-llama/llama-cookbook
+[195/281] alibaba/MNN
+[196/281] ubicloud/ubicloud
+[197/281] loft-sh/vcluster
+[198/281] openvinotoolkit/openvino
+[199/281] deepseek-ai/3FS
+[200/281] dusty-nv/jetson-inference
+[201/281] leejet/stable-diffusion.cpp
+[202/281] kvcache-ai/Mooncake
+[203/281] argmaxinc/argmax-oss-swift
+[204/281] Trusted-AI/adversarial-robustness-toolbox
+[205/281] cactus-compute/cactus
+[206/281] kserve/kserve
+[207/281] MadsLorentzen/ai-job-search
+[208/281] Tencent/WeKnora
+[209/281] mlflow/mlflow
+[210/281] promptfoo/promptfoo
+[211/281] google/adk-python
+[212/281] raga-ai-hub/RagaAI-Catalyst
+[213/281] dataelement/bisheng
+[214/281] tensorzero/tensorzero
+[215/281] Arize-ai/phoenix
+[216/281] facebookresearch/ParlAI
+[217/281] google/adk-go
+[218/281] evidentlyai/evidently
+[219/281] interviewstreet/hiring-agent
+[220/281] Tencent/AI-Infra-Guard
+[221/281] GoogleCloudPlatform/agent-starter-pack
+[222/281] google/agents-cli
+[223/281] coze-dev/coze-loop
+[224/281] transformerlab/transformerlab-app
+[225/281] Kiln-AI/Kiln
+[226/281] wasp-lang/wasp
+[227/281] Mail-0/Zero
+[228/281] superagent-ai/superagent
+[229/281] Astrosp/Awesome-OSINT-List
+[230/281] nextlevelbuilder/goclaw
+[231/281] sunnypilot/sunnypilot
+[232/281] valqore/valqore
+[233/281] Dicklesworthstone/agentic_coding_flywheel_setup
+[234/281] yueliu1999/Awesome-Jailbreak-on-LLMs
+[235/281] kenryu42/cc-safety-net
+[236/281] wuyoscar/Internal-Safety-Collapse
+[237/281] cebeuq/Synthid-Bypass
+[238/281] kaplanelad/shellfirm
+[239/281] AI45Lab/AgentDoG
+[240/281] MORTEN-BUUR/nordef-matrix-open-control
+[241/281] caiovicentino/polymarket-mcp-server
+[242/281] 0din-ai/ai-scanner
+[243/281] theNetworkChuck/dark-web-scraping-guide
+[244/281] google-deepmind/ai-safety-gridworlds
+[245/281] Cranot/roam-code
+[246/281] PostHog/posthog
+[247/281] SigNoz/signoz
+[248/281] kubesphere/kubesphere
+[249/281] apache/doris
+[250/281] kubeshark/kubeshark
+[251/281] getagentseal/codeburn
+[252/281] Tracer-Cloud/opensre
+[253/281] VoltAgent/voltagent
+[254/281] coroot/coroot
+[255/281] apache/hertzbeat
+[256/281] katanemo/plano
+[257/281] appwrite/appwrite
+[258/281] zeroclaw-labs/zeroclaw
+[259/281] chroma-core/chroma
+[260/281] nocobase/nocobase
+[261/281] fosrl/pangolin
+[262/281] logto-io/logto
+[263/281] OpenNHP/opennhp
+[264/281] semantica-agi/semantica
+[265/281] NVIDIA/cosmos
+[266/281] nullclaw/nullclaw
+[267/281] deepseek-ai/open-infra-index
+[268/281] steel-dev/steel-browser
+[269/281] goodrain/rainbond
+[270/281] RLinf/RLinf
+[271/281] vllm-project/aibrix
+[272/281] ChatGPTNextWeb/NextChat
+[273/281] unslothai/unsloth
+[274/281] mudler/LocalAI
+[275/281] QuantumNous/new-api
+[276/281] microsoft/qlib
+[277/281] mindsdb/mindshub
+[278/281] musistudio/claude-code-router
+[279/281] lutzroeder/netron
+[280/281] mckaywrigley/chatbot-ui
+[281/281] Lightning-AI/pytorch-lightning
+
+================================================================================
+        TOP AI REPOSITORIES - 30 DAY STAR GROWTH
+================================================================================
+
+1. DietrichGebert/ponytail
+   Stars gained: +30,917
+   Current stars: 147,861
+   Forks: 7,944
+   Language: JavaScript
+   URL: https://github.com/DietrichGebert/ponytail
+
+2. affaan-m/ECC
+   Stars gained: +25,736
+   Current stars: 269,299
+   Forks: 40,242
+   Language: JavaScript
+   URL: https://github.com/affaan-m/ECC
+
+3. alibaba/open-code-review
+   Stars gained: +20,946
+   Current stars: 42,486
+   Forks: 3,051
+   Language: Go
+   URL: https://github.com/alibaba/open-code-review
+
+4. cloudflare/security-audit-skill
+   Stars gained: +19,822
+   Current stars: 22,973
+   Forks: 1,341
+   Language: JavaScript
+   URL: https://github.com/cloudflare/security-audit-skill
+
+5. THU-MAIC/OpenMAIC
+   Stars gained: +14,661
+   Current stars: 39,490
+   Forks: 6,129
+   Language: TypeScript
+   URL: https://github.com/THU-MAIC/OpenMAIC
+
+6. obra/superpowers
+   Stars gained: +14,037
+   Current stars: 292,682
+   Forks: 26,200
+   Language: Shell
+   URL: https://github.com/obra/superpowers
+
+7. diegosouzapw/OmniRoute
+   Stars gained: +12,790
+   Current stars: 71,233
+   Forks: 10,142
+   Language: TypeScript
+   URL: https://github.com/diegosouzapw/OmniRoute
+
+8. firecrawl/firecrawl
+   Stars gained: +12,434
+   Current stars: 186,314
+   Forks: 9,979
+   Language: TypeScript
+   URL: https://github.com/firecrawl/firecrawl
+GitHub added 8 repositories.
+
+--------------------------------------------------------------------------------
+SOURCE: Hugging Face
+--------------------------------------------------------------------------------
+
+================================================================================
+        HUGGING FACE TRENDING MODELS
+================================================================================
+Fetching Hugging Face trending models (limit=7)
+Hugging Face API returned 7 models.
+
+================================================================================
+        TOP TRENDING HUGGING FACE MODELS
+================================================================================
+
+1. convaiinnovations/laya
+   Trending score: 2074
+   Downloads: 0
+   Likes: 4417
+   Pipeline: text-classification
+   Created: 2026-09-18T05:05:55.000Z
+
+2. Edge0/Audio8-ASR-Infinite
+   Trending score: 1283
+   Downloads: 23674
+   Likes: 1459
+   Pipeline: automatic-speech-recognition
+   Created: 2026-09-21T15:03:21.000Z
+
+3. abenzerps/Qwen-Image-2.1-Uncensored-GGUF
+   Trending score: 1222
+   Downloads: 1152523
+   Likes: 2341
+   Pipeline: text-to-image
+   Created: 2026-09-20T15:51:13.000Z
+
+4. Qwen/Qwen-Image-2.1
+   Trending score: 834
+   Downloads: 64362
+   Likes: 2627
+   Pipeline: text-to-image
+   Created: 2026-09-14T03:47:26.000Z
+
+5. XingChen-AGI/TeleOCR
+   Trending score: 699
+   Downloads: 30354
+   Likes: 830
+   Pipeline: image-text-to-text
+   Created: 2026-08-14T06:15:03.000Z
+
+6. XingChen-AGI/Xing4.0-29B-A4B
+   Trending score: 562
+   Downloads: 46557
+   Likes: 1803
+   Pipeline: text-generation
+   Created: 2026-09-16T06:44:40.000Z
+
+7. Contrastive-LM/CLM-v0.1-8B
+   Trending score: 497
+   Downloads: 1910
+   Likes: 504
+   Pipeline: text-ranking
+   Created: 2026-09-21T20:09:04.000Z
+
+Selected 7 Hugging Face models.
+Hugging Face added 7 models.
+
+================================================================================
+DISCOVERY COMPLETE: 20 items
+================================================================================
+1. [tag] kimi k3
+2. [tag] generative ai is an engineering disaster
+3. [tag] jev llm
+4. [tag] ai agents executing unowned code
+5. [tag] openai ai agents wiki communication
+6. [repo] DietrichGebert/ponytail
+7. [repo] affaan-m/ECC
+8. [repo] alibaba/open-code-review
+9. [repo] cloudflare/security-audit-skill
+10. [repo] THU-MAIC/OpenMAIC
+11. [repo] obra/superpowers
+12. [repo] diegosouzapw/OmniRoute
+13. [repo] firecrawl/firecrawl
+14. [model] convaiinnovations/laya
+15. [model] Edge0/Audio8-ASR-Infinite
+16. [model] abenzerps/Qwen-Image-2.1-Uncensored-GGUF
+17. [model] Qwen/Qwen-Image-2.1
+18. [model] XingChen-AGI/TeleOCR
+19. [model] XingChen-AGI/Xing4.0-29B-A4B
+20. [model] Contrastive-LM/CLM-v0.1-8B
+
+================================================================================
+Saved discovery result: /home/ubuntu/code/newsletter/discovery/outputs/discovery_20260929_165446.json
+Saved discovery log:    /home/ubuntu/code/newsletter/discovery/logs/discovery_20260929_165446.log
+================================================================================

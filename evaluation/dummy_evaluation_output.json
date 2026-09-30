@@ -1,0 +1,434 @@
+{
+  "evaluated_count": 25,
+  "selected_count": 8,
+  "items": [
+    {
+      "name": "kimi k3",
+      "type": "tag",
+      "scores": {
+        "momentum": 92,
+        "technical_significance": 88,
+        "novelty": 84,
+        "community_adoption": 80,
+        "research_significance": 86,
+        "newsletter_value": 90
+      },
+      "final_score": 87.1,
+      "confidence": 0.86,
+      "decision": "include",
+      "reason": "Open-weight 2.8T MoE with strong coding and agent benchmarks, and a 1M context window.",
+      "item": {
+        "type": "tag",
+        "name": "kimi k3"
+      },
+      "research": {
+        "github": {
+          "repository": "MoonshotAI/Kimi-K3",
+          "description": "Open Frontier Intelligence",
+          "readme": "What is it?\n\nKimi K3 is Moonshot AI’s open-weight multimodal agentic model for coding, reasoning, research, and knowledge work.\n\nProblem solved\n\nIt targets repository-scale coding, terminal operation, and long-horizon tool use.\n\nHow does it work?\n\nThe 2.8T-parameter, 93-layer MoE activates 104B parameters, routing tokens to 16 of 896 experts.\n\nWho should use it?\n\nAI engineers, researchers, and teams building coding agents or long-context assistants.\n\nWhy is it useful?\n\nA 1,048,576-token context supports repository-scale work, while sparse activation limits per-token compute.\n\nKey capabilities\n\nSupports Transformers, vLLM, SGLang, TokenSpeed, Kimi Code CLI, and OpenAI- and Anthropic-compatible APIs.\n\nPerformance\n\nAt maximum effort, K3 reports 93.5 on GPQA Diamond, 88.3 on Terminal-Bench 2.1, and 91.2 on BrowseComp.\n\nMaturity/status\n\nFull weights and a hosted API are available.",
+          "stars": 8863,
+          "forks": 746,
+          "topics": ["llm", "moe", "agent", "multimodal"],
+          "created_at": "2026-07-27T08:01:37Z",
+          "updated_at": "2026-09-27T12:52:48Z",
+          "url": "https://github.com/MoonshotAI/Kimi-K3"
+        },
+        "huggingface": {
+          "model": "moonshotai/Kimi-K3",
+          "description": null,
+          "readme": "What is it?\n\nKimi K3 is Moonshot AI’s open-weight native multimodal agentic model.\n\nProblem solved\n\nLong-running coding, research, and tool workflows with limited oversight.\n\nHow does it work?\n\n2.8T MoE, 104B active, 93 layers, MXFP4 weights and MXFP8 activations.\n\nWho should use it?\n\nAI engineers and researchers building coding or multimodal agents.\n\nWhy is it useful?\n\nSparse activation and a 1,048,576-token context.\n\nKey capabilities\n\nText and images, optional video understanding, vLLM, SGLang, OpenAI/Anthropic APIs.\n\nPerformance\n\n93.5 GPQA Diamond, 88.3 Terminal-Bench 2.1, 94.5 MCPMark-Verified, 91.1 OmniDocBench.",
+          "downloads": 1647091,
+          "likes": 11532,
+          "trending_score": 1818,
+          "pipeline_tag": "image-text-to-text",
+          "tags": [
+            "transformers",
+            "safetensors",
+            "kimi_k3",
+            "conversational",
+            "image-text-to-text",
+            "license:other"
+          ],
+          "created_at": "2026-06-13 06:42:57+00:00",
+          "last_modified": "2026-09-02 02:22:41+00:00",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3"
+        },
+        "semantic_scholar": {
+          "papers": []
+        },
+        "huggingface_papers": {
+          "papers": []
+        },
+        "openaire": {
+          "papers": []
+        }
+      }
+    },
+    {
+      "name": "Qwen/Qwen-Image-2.1",
+      "type": "model",
+      "scores": {
+        "momentum": 85,
+        "technical_significance": 82,
+        "novelty": 78,
+        "community_adoption": 84,
+        "research_significance": 70,
+        "newsletter_value": 83
+      },
+      "final_score": 80.85,
+      "confidence": 0.81,
+      "decision": "include",
+      "reason": "Unified 7B image generation and editing model with RGBA output and multi-reference control.",
+      "item": {
+        "type": "model",
+        "name": "Qwen/Qwen-Image-2.1"
+      },
+      "research": {
+        "github": {
+          "repository": "QwenLM/Qwen-Image",
+          "description": "Qwen-Image is a powerful and native multimodal image generation model.",
+          "readme": "What is it?\n\nQwen-Image is the official GitHub project for Qwen image generation and editing models.\n\nProblem solved\n\nIt unifies text-to-image generation, image editing, and transparent asset workflows.\n\nHow does it work?\n\nDiffusers pipelines expose QwenImage21Pipeline with mixed-granularity attention.\n\nWho should use it?\n\nDevelopers building image-generation or editing applications.\n\nWhy is it useful?\n\nOne checkpoint covers RGB, RGBA, identity preservation, and local edits.\n\nKey capabilities\n\nUp to 10 reference images, mask-based local edits, and high-resolution output.\n\nPerformance\n\nDocumented resolutions include 2048×2048 and 16:9 up to 2752×1536.",
+          "stars": 6120,
+          "forks": 540,
+          "topics": ["qwen", "diffusion", "image-generation", "diffusers"],
+          "created_at": "2026-09-01T10:12:00Z",
+          "updated_at": "2026-09-27T16:00:00Z",
+          "url": "https://github.com/QwenLM/Qwen-Image"
+        },
+        "huggingface": {
+          "model": "Qwen/Qwen-Image-2.1",
+          "description": null,
+          "readme": "What is it?\n\nQwen-Image-2.1 is a unified text-to-image generation and image-editing model.\n\nProblem solved\n\nIt consolidates generation, localized editing, subject extraction, and transparency.\n\nHow does it work?\n\nThe visual generator has 7B parameters and 32 Single-Stream DiT layers.\n\nWho should use it?\n\nAI engineers building image-generation or editing applications.\n\nWhy is it useful?\n\nNative alpha-channel output and high-resolution generation.\n\nKey capabilities\n\nUp to 10 reference images, local edits, identity preservation, and RGBA assets.\n\nPerformance\n\nRecommended resolutions include 2048×2048, 2752×1536, and 1536×2752.",
+          "downloads": 52804,
+          "likes": 2465,
+          "trending_score": 2041,
+          "pipeline_tag": "text-to-image",
+          "tags": [
+            "diffusers",
+            "safetensors",
+            "qwen",
+            "image-generation",
+            "image-editing",
+            "rgba",
+            "text-to-image"
+          ],
+          "created_at": "2026-09-14 03:47:26+00:00",
+          "last_modified": "2026-09-21 04:50:49+00:00",
+          "url": "https://huggingface.co/Qwen/Qwen-Image-2.1"
+        },
+        "semantic_scholar": {
+          "papers": []
+        },
+        "huggingface_papers": {
+          "papers": []
+        },
+        "openaire": {
+          "papers": []
+        }
+      }
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "type": "repo",
+      "scores": {
+        "momentum": 88,
+        "technical_significance": 80,
+        "novelty": 74,
+        "community_adoption": 86,
+        "research_significance": 68,
+        "newsletter_value": 85
+      },
+      "final_score": 80.7,
+      "confidence": 0.84,
+      "decision": "include",
+      "reason": "Production-scale hybrid code-review CLI with line-level comments and strong precision on AACR-Bench.",
+      "item": {
+        "type": "repo",
+        "name": "alibaba/open-code-review"
+      },
+      "research": {
+        "github": {
+          "repository": "alibaba/open-code-review",
+          "description": "Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments.",
+          "readme": "What is it?\n\nOpenCodeReview is Alibaba’s open-source AI code-review CLI.\n\nProblem solved\n\nIt targets missed files, drifting comment locations, and noisy agent reviews.\n\nHow does it work?\n\nDeterministic pipelines handle file selection, bundling, rules, and positioning; an LLM agent retrieves context.\n\nWho should use it?\n\nDevelopers and teams reviewing changes or automating CI/CD review.\n\nWhy is it useful?\n\nHigher precision and about one-ninth the tokens versus a general-purpose agent on the same model.\n\nKey capabilities\n\nWorkspace, range, commit, and scan modes; MCP; GitHub Actions; GitLab CI; Gerrit.\n\nPerformance\n\nAACR-Bench: 50 repositories, 200 PRs, 10 languages, 1,505 issues.\n\nMaturity/status\n\nInternal version served tens of thousands of developers for two years before open-sourcing.",
+          "stars": 41842,
+          "forks": 3009,
+          "topics": [
+            "agent",
+            "agent-skills",
+            "code-review",
+            "code-review-assistant",
+            "harness",
+            "repository-level-context"
+          ],
+          "created_at": "2026-05-18T02:16:36Z",
+          "updated_at": "2026-09-27T16:43:47Z",
+          "url": "https://github.com/alibaba/open-code-review"
+        },
+        "huggingface": null,
+        "semantic_scholar": {
+          "papers": []
+        },
+        "huggingface_papers": {
+          "papers": []
+        },
+        "openaire": {
+          "papers": []
+        }
+      }
+    },
+    {
+      "name": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "type": "model",
+      "scores": {
+        "momentum": 79,
+        "technical_significance": 84,
+        "novelty": 86,
+        "community_adoption": 77,
+        "research_significance": 72,
+        "newsletter_value": 80
+      },
+      "final_score": 79.95,
+      "confidence": 0.78,
+      "decision": "include",
+      "reason": "27B ternary GGUF that keeps most FP16 quality at about 6GB for local deployment.",
+      "item": {
+        "type": "model",
+        "name": "prism-ml/Ternary-Bonsai-2-27B-gguf"
+      },
+      "research": {
+        "github": {
+          "repository": "jarkevithwlad/turboquant-prismml-cuda",
+          "description": "llama.cpp fork with TurboQuant and PrismML Ternary-Bonsai-27B GGUF support.",
+          "readme": "What is it?\n\nA CUDA llama.cpp fork adding TurboQuant and PrismML Bonsai 27B Q1_0 / ternary Q2_0 GGUF formats.\n\nProblem solved\n\nIt reduces model and KV-cache memory for local long-context GPU inference.\n\nHow does it work?\n\nTurboQuant uses Walsh–Hadamard transforms, Lloyd–Max quantization, and QJL correction.\n\nWho should use it?\n\nCUDA inference engineers and quantization researchers.\n\nWhy is it useful?\n\nMillion-token contexts without requantizing native FP4/FP8 checkpoints.\n\nKey capabilities\n\nPrebuilt binaries for V100, A100, RTX 4090/5090, H100, and DGX Spark.\n\nPerformance\n\nDeepSeek-V4-Flash Q4 reached 16.5 tok/s at 1,048,576 tokens with a 9.6 GB TBQ3 cache.\n\nMaturity/status\n\nDevelopment is discontinued and archived.",
+          "stars": 15,
+          "forks": 4,
+          "topics": [],
+          "created_at": "2026-07-16T06:19:00Z",
+          "updated_at": "2026-09-24T11:00:11Z",
+          "url": "https://github.com/jarkevithwlad/turboquant-prismml-cuda"
+        },
+        "huggingface": {
+          "model": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+          "description": null,
+          "readme": "What is it?\n\nPrism ML’s Ternary Bonsai 2 27B is a 27.36B-parameter GGUF model derived from Qwen3.8-27B.\n\nProblem solved\n\nIt puts 27B-class reasoning on laptops or one GPU.\n\nHow does it work?\n\nTernary {-1,0,+1} g128 weights; PTQ1_0 is 5.95 GB at 1.75 bits/weight.\n\nWho should use it?\n\nAI engineers deploying local agents or privacy-sensitive teams.\n\nWhy is it useful?\n\nIt shrinks a ~54 GB FP16 model to 5.95 GB while retaining reported reasoning quality.\n\nKey capabilities\n\nThinking mode, coding, tool calling, optional vision via mmproj; custom llama.cpp fork required.\n\nPerformance\n\nAveraged 84.78 vs FP16 86.32 (98.2%) across 14 thinking benchmarks; 129.9 tok/s on RTX 5090.",
+          "downloads": 3343748,
+          "likes": 2173,
+          "trending_score": 1602,
+          "pipeline_tag": "text-generation",
+          "tags": [
+            "llama.cpp",
+            "gguf",
+            "ternary",
+            "2-bit",
+            "on-device",
+            "text-generation"
+          ],
+          "created_at": "2026-09-16 23:40:56+00:00",
+          "last_modified": "2026-09-25 21:58:06+00:00",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf"
+        },
+        "semantic_scholar": {
+          "papers": []
+        },
+        "huggingface_papers": {
+          "papers": []
+        },
+        "openaire": {
+          "papers": []
+        }
+      }
+    },
+    {
+      "name": "XingChen-AGI/Xing4.0-29B-A4B",
+      "type": "model",
+      "scores": {
+        "momentum": 76,
+        "technical_significance": 81,
+        "novelty": 73,
+        "community_adoption": 71,
+        "research_significance": 75,
+        "newsletter_value": 77
+      },
+      "final_score": 75.75,
+      "confidence": 0.74,
+      "decision": "include",
+      "reason": "29B/4B-active long-context MoE with coding and agent scores that are useful to practitioners.",
+      "item": {
+        "type": "model",
+        "name": "XingChen-AGI/Xing4.0-29B-A4B"
+      },
+      "research": {
+        "github": null,
+        "huggingface": {
+          "model": "XingChen-AGI/Xing4.0-29B-A4B",
+          "description": null,
+          "readme": "What is it?\n\nXing4.0-29B-A4B is China Telecom’s text-generation MoE, 29B total / 4B active, 256K context extensible to 512K.\n\nProblem solved\n\nLong-context engineering, tool use, coding, and domain adaptation.\n\nHow does it work?\n\n40-layer mHC + MLA + MTP architecture, 64 routed experts, four active per token.\n\nWho should use it?\n\nEngineers building agents or specialized QA and contract-audit systems.\n\nWhy is it useful?\n\nSparse activation limits per-token compute while long context supports extended agent runs.\n\nKey capabilities\n\nTransformers, vLLM, SGLang, OpenAI-compatible API, LLaMA-Factory, MindFormers.\n\nPerformance\n\nIFBench 69.67, AIME2026 90.00, SWE-bench Verified 75.00, Terminal-Bench 2.1 57.50.",
+          "downloads": 45028,
+          "likes": 1776,
+          "trending_score": 980,
+          "pipeline_tag": "text-generation",
+          "tags": [
+            "transformers",
+            "safetensors",
+            "xing4_0",
+            "text-generation",
+            "conversational",
+            "license:apache-2.0"
+          ],
+          "created_at": "2026-09-16 06:44:40+00:00",
+          "last_modified": "2026-09-18 09:49:55+00:00",
+          "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B"
+        },
+        "semantic_scholar": {
+          "papers": []
+        },
+        "huggingface_papers": {
+          "papers": []
+        },
+        "openaire": {
+          "papers": []
+        }
+      }
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "type": "repo",
+      "scores": {
+        "momentum": 82,
+        "technical_significance": 75,
+        "novelty": 70,
+        "community_adoption": 84,
+        "research_significance": 62,
+        "newsletter_value": 79
+      },
+      "final_score": 75.65,
+      "confidence": 0.72,
+      "decision": "include",
+      "reason": "High-momentum agent stack with broad community adoption among AI engineers.",
+      "item": {
+        "type": "repo",
+        "name": "NousResearch/hermes-agent"
+      },
+      "research": {
+        "github": {
+          "repository": "NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "readme": "What is it?\n\nHermes Agent is Nous Research’s open agent runtime and tool-using assistant stack.\n\nProblem solved\n\nIt gives developers a practical agent loop for coding, research, and tool use.\n\nHow does it work?\n\nAn agent harness coordinates model calls, tools, memory, and multi-step tasks.\n\nWho should use it?\n\nAI engineers building coding or research agents.\n\nWhy is it useful?\n\nOpen weights plus a maintained agent codebase with strong community momentum.\n\nKey capabilities\n\nTool calling, long-running tasks, and integration with popular LLM backends.\n\nMaturity/status\n\nActively maintained open-source project with high star growth.",
+          "stars": 249393,
+          "forks": 53005,
+          "topics": ["agents", "llm", "hermes", "tool-use"],
+          "created_at": "2025-11-02T12:00:00Z",
+          "updated_at": "2026-09-27T16:00:00Z",
+          "url": "https://github.com/NousResearch/hermes-agent"
+        },
+        "huggingface": null,
+        "semantic_scholar": {
+          "papers": []
+        },
+        "huggingface_papers": {
+          "papers": []
+        },
+        "openaire": {
+          "papers": []
+        }
+      }
+    },
+    {
+      "name": "Edge0/Audio8-ASR-Infinite",
+      "type": "model",
+      "scores": {
+        "momentum": 74,
+        "technical_significance": 80,
+        "novelty": 79,
+        "community_adoption": 65,
+        "research_significance": 70,
+        "newsletter_value": 76
+      },
+      "final_score": 74.35,
+      "confidence": 0.7,
+      "decision": "include",
+      "reason": "Streaming bilingual ASR with constant-memory long sessions and competitive CER/WER.",
+      "item": {
+        "type": "model",
+        "name": "Edge0/Audio8-ASR-Infinite"
+      },
+      "research": {
+        "github": null,
+        "huggingface": {
+          "model": "Edge0/Audio8-ASR-Infinite",
+          "description": null,
+          "readme": "What is it?\n\nAudio8 ASR Infinite is a native-streaming Chinese-English ASR model.\n\nProblem solved\n\nResponsive 24/7 transcription without memory or latency growing over long sessions.\n\nHow does it work?\n\nA Voxtral Realtime 4B audio tower plus a Qwen2.5-3B-Instruct decoder, with rolling KV cache.\n\nWho should use it?\n\nEngineers building bilingual long-running speech services.\n\nWhy is it useful?\n\nSelectable clocks and delays balance cost and accuracy.\n\nKey capabilities\n\n16 kHz mono audio, semantic VAD, Transformers simulated streaming, WebSocket serving.\n\nPerformance\n\nAt 80 ms/480 ms, AISHELL-1 CER 1.750% and LibriSpeech test-clean WER 3.042%.\n\nMaturity/status\n\nPreview ASR-base release.",
+          "downloads": 19434,
+          "likes": 972,
+          "trending_score": 640,
+          "pipeline_tag": "automatic-speech-recognition",
+          "tags": [
+            "transformers",
+            "safetensors",
+            "streaming",
+            "realtime",
+            "speech-recognition",
+            "zh",
+            "en"
+          ],
+          "created_at": "2026-09-21 15:03:21+00:00",
+          "last_modified": "2026-09-24 03:39:57+00:00",
+          "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite"
+        },
+        "semantic_scholar": {
+          "papers": []
+        },
+        "huggingface_papers": {
+          "papers": []
+        },
+        "openaire": {
+          "papers": []
+        }
+      }
+    },
+    {
+      "name": "obra/superpowers",
+      "type": "repo",
+      "scores": {
+        "momentum": 83,
+        "technical_significance": 68,
+        "novelty": 64,
+        "community_adoption": 88,
+        "research_significance": 50,
+        "newsletter_value": 74
+      },
+      "final_score": 71.45,
+      "confidence": 0.69,
+      "decision": "include",
+      "reason": "Very high 30-day GitHub growth and developer interest, useful as a tooling story.",
+      "item": {
+        "type": "repo",
+        "name": "obra/superpowers"
+      },
+      "research": {
+        "github": {
+          "repository": "obra/superpowers",
+          "description": "An agentic skills framework for coding agents.",
+          "readme": "What is it?\n\nSuperpowers is an open skills framework for coding agents.\n\nProblem solved\n\nIt packages reusable agent skills so coding agents can follow consistent workflows.\n\nHow does it work?\n\nSkills are files and prompts that an agent loads to perform specialized tasks.\n\nWho should use it?\n\nDevelopers customizing Claude Code, Codex, Cursor, or similar agents.\n\nWhy is it useful?\n\nA shared skill format reduces one-off prompt engineering.\n\nKey capabilities\n\nComposable skills, agent-compatible layout, and community-contributed workflows.\n\nMaturity/status\n\nFast-growing open-source project.",
+          "stars": 292095,
+          "forks": 26138,
+          "topics": ["agents", "skills", "claude-code"],
+          "created_at": "2026-01-15T09:00:00Z",
+          "updated_at": "2026-09-27T16:20:00Z",
+          "url": "https://github.com/obra/superpowers"
+        },
+        "huggingface": null,
+        "semantic_scholar": {
+          "papers": []
+        },
+        "huggingface_papers": {
+          "papers": []
+        },
+        "openaire": {
+          "papers": []
+        }
+      }
+    }
+  ]
+}

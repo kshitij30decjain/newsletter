@@ -1,0 +1,91 @@
+{
+  "timestamp": "2026-09-30T11:28:40",
+  "stage": "discovery",
+  "run_id": "20260930_112501",
+  "started_at": "2026-09-30T11:25:01",
+  "log_file": "/home/ubuntu/Development/newsletter-main-v3/discovery/logs/discovery_20260930_112501.log",
+  "result": {
+    "items": [
+      {
+        "type": "tag",
+        "name": "kimi k3"
+      },
+      {
+        "type": "tag",
+        "name": "jev llm"
+      },
+      {
+        "type": "tag",
+        "name": "ai agents executing unowned code"
+      },
+      {
+        "type": "tag",
+        "name": "openai ai agents wiki communication"
+      },
+      {
+        "type": "tag",
+        "name": "japanese game developers generative ai adoption"
+      },
+      {
+        "type": "repo",
+        "name": "DietrichGebert/ponytail"
+      },
+      {
+        "type": "repo",
+        "name": "affaan-m/ECC"
+      },
+      {
+        "type": "repo",
+        "name": "alibaba/open-code-review"
+      },
+      {
+        "type": "repo",
+        "name": "cloudflare/security-audit-skill"
+      },
+      {
+        "type": "repo",
+        "name": "obra/superpowers"
+      },
+      {
+        "type": "repo",
+        "name": "firecrawl/firecrawl"
+      },
+      {
+        "type": "repo",
+        "name": "diegosouzapw/OmniRoute"
+      },
+      {
+        "type": "repo",
+        "name": "NousResearch/hermes-agent"
+      },
+      {
+        "type": "model",
+        "name": "convaiinnovations/laya"
+      },
+      {
+        "type": "model",
+        "name": "Edge0/Audio8-ASR-Infinite"
+      },
+      {
+        "type": "model",
+        "name": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF"
+      },
+      {
+        "type": "model",
+        "name": "XingChen-AGI/TeleOCR"
+      },
+      {
+        "type": "model",
+        "name": "Qwen/Qwen-Image-2.1"
+      },
+      {
+        "type": "model",
+        "name": "Contrastive-LM/CLM-v0.1-8B"
+      },
+      {
+        "type": "model",
+        "name": "nvidia/Nemotron-3-Diarization"
+      }
+    ]
+  }
+}

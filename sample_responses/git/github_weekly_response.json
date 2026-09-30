@@ -1,0 +1,565 @@
+{
+  "title": "GitHub All Languages Weekly Trending",
+  "description": "Weekly Trending of All Languages in GitHub",
+  "link": "https://github.com/isboyjc/github-trending-api",
+  "pubDate": "Wed, 26 Aug 2026 13:56:53 GMT",
+  "items": [
+    {
+      "title": "anthropics/claude-plugins-community",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "2,053",
+      "forks": "186",
+      "addStars": "1,199",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/238056179?s=40&v=4",
+          "name": "bryan-anthropic",
+          "url": "https://github.com/bryan-anthropic"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32489862?s=40&v=4",
+          "name": "tobinsouth",
+          "url": "https://github.com/tobinsouth"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/140827?s=40&v=4",
+          "name": "ThariqS",
+          "url": "https://github.com/ThariqS"
+        }
+      ]
+    },
+    {
+      "title": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "16,718",
+      "forks": "467",
+      "addStars": "7,648",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37977109?s=40&v=4",
+          "name": "AprilNEA",
+          "url": "https://github.com/AprilNEA"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18271248?s=40&v=4",
+          "name": "davidbudnick",
+          "url": "https://github.com/davidbudnick"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14993439?s=40&v=4",
+          "name": "cserby",
+          "url": "https://github.com/cserby"
+        }
+      ]
+    },
+    {
+      "title": "modular/modular",
+      "url": "https://github.com/modular/modular",
+      "description": "The Modular Platform (includes MAX & Mojo)",
+      "language": "Mojo",
+      "languageColor": "#ff4c1f",
+      "stars": "29,200",
+      "forks": "3,107",
+      "addStars": "2,354",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1404191?s=40&v=4",
+          "name": "abduld",
+          "url": "https://github.com/abduld"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15152540?s=40&v=4",
+          "name": "lattner",
+          "url": "https://github.com/lattner"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6462525?s=40&v=4",
+          "name": "JoeLoser",
+          "url": "https://github.com/JoeLoser"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/283886?s=40&v=4",
+          "name": "keith",
+          "url": "https://github.com/keith"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30697412?s=40&v=4",
+          "name": "atomicapple0",
+          "url": "https://github.com/atomicapple0"
+        }
+      ]
+    },
+    {
+      "title": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "31,746",
+      "forks": "3,223",
+      "addStars": "4,601",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
+          "name": "dhh",
+          "url": "https://github.com/dhh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1630358?s=40&v=4",
+          "name": "ryanrhughes",
+          "url": "https://github.com/ryanrhughes"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/317366263?s=40&v=4",
+          "name": "omarchybot",
+          "url": "https://github.com/omarchybot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/77543049?s=40&v=4",
+          "name": "tahayvr",
+          "url": "https://github.com/tahayvr"
+        }
+      ]
+    },
+    {
+      "title": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": "20,686",
+      "forks": "2,087",
+      "addStars": "5,329",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43960064?s=40&v=4",
+          "name": "freestylefly",
+          "url": "https://github.com/freestylefly"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31427850?s=40&v=4",
+          "name": "ImgBotApp",
+          "url": "https://github.com/ImgBotApp"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/155434161?s=40&v=4",
+          "name": "LengShangbai",
+          "url": "https://github.com/LengShangbai"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/284359760?s=40&v=4",
+          "name": "sscodeai",
+          "url": "https://github.com/sscodeai"
+        }
+      ]
+    },
+    {
+      "title": "apache/maka",
+      "url": "https://github.com/apache/maka",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "3,554",
+      "forks": "346",
+      "addStars": "1,769",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30525741?s=40&v=4",
+          "name": "jackwener",
+          "url": "https://github.com/jackwener"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/255364436?s=40&v=4",
+          "name": "Astro-Han",
+          "url": "https://github.com/Astro-Han"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/90952590?s=40&v=4",
+          "name": "likun666661",
+          "url": "https://github.com/likun666661"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/68144809?s=40&v=4",
+          "name": "M4n5ter",
+          "url": "https://github.com/M4n5ter"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/78337154?s=40&v=4",
+          "name": "hqhq1025",
+          "url": "https://github.com/hqhq1025"
+        }
+      ]
+    },
+    {
+      "title": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "118,654",
+      "forks": "18,083",
+      "addStars": "11,424",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/230027070?s=40&v=4",
+          "name": "jif-oai",
+          "url": "https://github.com/jif-oai"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/655869?s=40&v=4",
+          "name": "bolinfest",
+          "url": "https://github.com/bolinfest"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/219906144?s=40&v=4",
+          "name": "aibrahim-oai",
+          "url": "https://github.com/aibrahim-oai"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/223546144?s=40&v=4",
+          "name": "etraut-openai",
+          "url": "https://github.com/etraut-openai"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/204937752?s=40&v=4",
+          "name": "pakrym-oai",
+          "url": "https://github.com/pakrym-oai"
+        }
+      ]
+    },
+    {
+      "title": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "116,769",
+      "forks": "17,759",
+      "addStars": "9,019",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
+          "name": "harry0703",
+          "url": "https://github.com/harry0703"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/95077259?s=40&v=4",
+          "name": "yyhhyyyyyy",
+          "url": "https://github.com/yyhhyyyyyy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/96235876?s=40&v=4",
+          "name": "vuisme",
+          "url": "https://github.com/vuisme"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/54718731?s=40&v=4",
+          "name": "pcbntt",
+          "url": "https://github.com/pcbntt"
+        }
+      ]
+    },
+    {
+      "title": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": "4,667",
+      "forks": "570",
+      "addStars": "2,487",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26071627?s=40&v=4",
+          "name": "chaitanyagiri",
+          "url": "https://github.com/chaitanyagiri"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/86521613?s=40&v=4",
+          "name": "gpechieu",
+          "url": "https://github.com/gpechieu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/61337736?s=40&v=4",
+          "name": "bluepanda999",
+          "url": "https://github.com/bluepanda999"
+        }
+      ]
+    },
+    {
+      "title": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "5,308",
+      "forks": "434",
+      "addStars": "2,045",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1390709?s=40&v=4",
+          "name": "poteto",
+          "url": "https://github.com/poteto"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25622412?s=40&v=4",
+          "name": "ericzakariasson",
+          "url": "https://github.com/ericzakariasson"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5743232?s=40&v=4",
+          "name": "n2parko",
+          "url": "https://github.com/n2parko"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10885502?s=40&v=4",
+          "name": "SamSokolin",
+          "url": "https://github.com/SamSokolin"
+        }
+      ]
+    },
+    {
+      "title": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "33,481",
+      "forks": "2,549",
+      "addStars": "4,211",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/234610432?s=40&v=4",
+          "name": "qin-ctx",
+          "url": "https://github.com/qin-ctx"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31875147?s=40&v=4",
+          "name": "ZaynJarvis",
+          "url": "https://github.com/ZaynJarvis"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/242402223?s=40&v=4",
+          "name": "zhoujh01",
+          "url": "https://github.com/zhoujh01"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/233881301?s=40&v=4",
+          "name": "r266-tech",
+          "url": "https://github.com/r266-tech"
+        }
+      ]
+    },
+    {
+      "title": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "4,777",
+      "forks": "341",
+      "addStars": "2,073",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
+          "name": "akitaonrails",
+          "url": "https://github.com/akitaonrails"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1858147?s=40&v=4",
+          "name": "djalmajr",
+          "url": "https://github.com/djalmajr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8575320?s=40&v=4",
+          "name": "wblech",
+          "url": "https://github.com/wblech"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1322752?s=40&v=4",
+          "name": "rthiago",
+          "url": "https://github.com/rthiago"
+        }
+      ]
+    },
+    {
+      "title": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "470,797",
+      "forks": "51,916",
+      "addStars": "6,747",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/50463866?s=40&v=4",
+          "name": "matheusfelipeog",
+          "url": "https://github.com/matheusfelipeog"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15134885?s=40&v=4",
+          "name": "davemachado",
+          "url": "https://github.com/davemachado"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/278394627?s=40&v=4",
+          "name": "ArindamOSS",
+          "url": "https://github.com/ArindamOSS"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/36134699?s=40&v=4",
+          "name": "pawelborkar",
+          "url": "https://github.com/pawelborkar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/246103?s=40&v=4",
+          "name": "jbrooksuk",
+          "url": "https://github.com/jbrooksuk"
+        }
+      ]
+    },
+    {
+      "title": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "39,214",
+      "forks": "3,289",
+      "addStars": "1,426",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/984817?s=40&v=4",
+          "name": "pauldambra",
+          "url": "https://github.com/pauldambra"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4550621?s=40&v=4",
+          "name": "Twixes",
+          "url": "https://github.com/Twixes"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1459269?s=40&v=4",
+          "name": "Gilbert09",
+          "url": "https://github.com/Gilbert09"
+        }
+      ]
+    },
+    {
+      "title": "tashfeenahmed/freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "20,501",
+      "forks": "2,951",
+      "addStars": "1,441",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
+          "name": "tashfeenahmed",
+          "url": "https://github.com/tashfeenahmed"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/108558399?s=40&v=4",
+          "name": "suantea",
+          "url": "https://github.com/suantea"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/102485413?s=40&v=4",
+          "name": "OhOkThisIsFine",
+          "url": "https://github.com/OhOkThisIsFine"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/319142293?s=40&v=4",
+          "name": "tashdroid",
+          "url": "https://github.com/tashdroid"
+        }
+      ]
+    },
+    {
+      "title": "bookorbit/bookorbit",
+      "url": "https://github.com/bookorbit/bookorbit",
+      "description": "BookOrbit: Your Reading Space",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "3,215",
+      "forks": "202",
+      "addStars": "869",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18559658?s=40&v=4",
+          "name": "neonsolstice",
+          "url": "https://github.com/neonsolstice"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/213777310?s=40&v=4",
+          "name": "chrismansell26",
+          "url": "https://github.com/chrismansell26"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/333657?s=40&v=4",
+          "name": "jadehawk",
+          "url": "https://github.com/jadehawk"
+        }
+      ]
+    }
+  ]
+}
